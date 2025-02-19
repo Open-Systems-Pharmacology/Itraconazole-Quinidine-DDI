@@ -1,0 +1,3986 @@
+{
+  "Version": 79,
+  "ExpressionProfiles": [
+    {
+      "Type": "Enzyme",
+      "Species": "Human",
+      "Molecule": "CYP3A4",
+      "Category": "Healthy",
+      "Parameters": [
+        {
+          "Path": "CYP3A4|Reference concentration",
+          "Value": 4.32,
+          "Unit": "µmol/l"
+        },
+        {
+          "Path": "CYP3A4|t1/2 (intestine)",
+          "Value": 23.0,
+          "Unit": "h"
+        },
+        {
+          "Path": "CYP3A4|t1/2 (liver)",
+          "Value": 36.0,
+          "Unit": "h"
+        },
+        {
+          "Path": "Organism|Brain|Intracellular|CYP3A4|Relative expression",
+          "Value": 0.0042
+        },
+        {
+          "Path": "Organism|Gonads|Intracellular|CYP3A4|Relative expression",
+          "Value": 0.0008
+        },
+        {
+          "Path": "Organism|Kidney|Intracellular|CYP3A4|Relative expression",
+          "Value": 0.0054
+        },
+        {
+          "Path": "Organism|Liver|Pericentral|Intracellular|CYP3A4|Relative expression",
+          "Value": 1.0
+        },
+        {
+          "Path": "Organism|Liver|Periportal|Intracellular|CYP3A4|Relative expression",
+          "Value": 1.0
+        },
+        {
+          "Path": "Organism|Lung|Intracellular|CYP3A4|Relative expression",
+          "Value": 0.0004
+        },
+        {
+          "Path": "Organism|SmallIntestine|Intracellular|CYP3A4|Relative expression",
+          "Value": 0.0728
+        },
+        {
+          "Path": "Organism|SmallIntestine|Mucosa|Duodenum|Intracellular|CYP3A4|Relative expression",
+          "Value": 0.0728
+        },
+        {
+          "Path": "Organism|SmallIntestine|Mucosa|LowerIleum|Intracellular|CYP3A4|Relative expression",
+          "Value": 0.0728
+        },
+        {
+          "Path": "Organism|SmallIntestine|Mucosa|LowerJejunum|Intracellular|CYP3A4|Relative expression",
+          "Value": 0.0728
+        },
+        {
+          "Path": "Organism|SmallIntestine|Mucosa|UpperIleum|Intracellular|CYP3A4|Relative expression",
+          "Value": 0.0728
+        },
+        {
+          "Path": "Organism|SmallIntestine|Mucosa|UpperJejunum|Intracellular|CYP3A4|Relative expression",
+          "Value": 0.0728
+        }
+      ],
+      "Localization": "Intracellular, BloodCellsIntracellular, VascEndosome",
+      "Ontogeny": {
+        "Name": "CYP3A4"
+      }
+    },
+    {
+      "Type": "Transporter",
+      "Species": "Human",
+      "Molecule": "ABCB1",
+      "Category": "Healthy",
+      "Parameters": [
+        {
+          "Path": "ABCB1|Reference concentration",
+          "Value": 1.41,
+          "Unit": "µmol/l"
+        },
+        {
+          "Path": "ABCB1|t1/2 (intestine)",
+          "Value": 23.0,
+          "Unit": "h"
+        },
+        {
+          "Path": "ABCB1|t1/2 (liver)",
+          "Value": 36.0,
+          "Unit": "h"
+        },
+        {
+          "Path": "Organism|Bone|Intracellular|ABCB1|Relative expression",
+          "Value": 0.0243
+        },
+        {
+          "Path": "Organism|Brain|Intracellular|ABCB1|Relative expression",
+          "Value": 0.0761
+        },
+        {
+          "Path": "Organism|Gonads|Intracellular|ABCB1|Relative expression",
+          "Value": 0.0174
+        },
+        {
+          "Path": "Organism|Heart|Intracellular|ABCB1|Relative expression",
+          "Value": 0.0419
+        },
+        {
+          "Path": "Organism|Kidney|Intracellular|ABCB1|Relative expression",
+          "Value": 0.7092
+        },
+        {
+          "Path": "Organism|LargeIntestine|Intracellular|ABCB1|Relative expression",
+          "Value": 0.1108
+        },
+        {
+          "Path": "Organism|LargeIntestine|Mucosa|ColonAscendens|Intracellular|ABCB1|Relative expression",
+          "Value": 0.3972
+        },
+        {
+          "Path": "Organism|LargeIntestine|Mucosa|ColonDescendens|Intracellular|ABCB1|Relative expression",
+          "Value": 0.3972
+        },
+        {
+          "Path": "Organism|LargeIntestine|Mucosa|ColonSigmoid|Intracellular|ABCB1|Relative expression",
+          "Value": 0.3972
+        },
+        {
+          "Path": "Organism|LargeIntestine|Mucosa|ColonTransversum|Intracellular|ABCB1|Relative expression",
+          "Value": 0.3972
+        },
+        {
+          "Path": "Organism|Liver|Pericentral|Intracellular|ABCB1|Relative expression",
+          "Value": 0.1917
+        },
+        {
+          "Path": "Organism|Liver|Periportal|Intracellular|ABCB1|Relative expression",
+          "Value": 0.1917
+        },
+        {
+          "Path": "Organism|Lung|Intracellular|ABCB1|Relative expression",
+          "Value": 0.0658
+        },
+        {
+          "Path": "Organism|Muscle|Intracellular|ABCB1|Relative expression",
+          "Value": 0.0128
+        },
+        {
+          "Path": "Organism|Pancreas|Intracellular|ABCB1|Relative expression",
+          "Value": 0.0143
+        },
+        {
+          "Path": "Organism|SmallIntestine|Intracellular|ABCB1|Relative expression",
+          "Value": 0.2809
+        },
+        {
+          "Path": "Organism|SmallIntestine|Mucosa|Duodenum|Intracellular|ABCB1|Relative expression",
+          "Value": 1.0
+        },
+        {
+          "Path": "Organism|SmallIntestine|Mucosa|LowerIleum|Intracellular|ABCB1|Relative expression",
+          "Value": 1.0
+        },
+        {
+          "Path": "Organism|SmallIntestine|Mucosa|LowerJejunum|Intracellular|ABCB1|Relative expression",
+          "Value": 1.0
+        },
+        {
+          "Path": "Organism|SmallIntestine|Mucosa|UpperIleum|Intracellular|ABCB1|Relative expression",
+          "Value": 1.0
+        },
+        {
+          "Path": "Organism|SmallIntestine|Mucosa|UpperJejunum|Intracellular|ABCB1|Relative expression",
+          "Value": 1.0
+        },
+        {
+          "Path": "Organism|Spleen|Intracellular|ABCB1|Relative expression",
+          "Value": 0.0743
+        },
+        {
+          "Path": "Organism|Stomach|Intracellular|ABCB1|Relative expression",
+          "Value": 0.0261
+        }
+      ],
+      "TransportType": "Efflux",
+      "Expression": [
+        {
+          "Name": "Bone",
+          "TransportDirection": "EffluxIntracellularToInterstitial",
+          "CompartmentName": "Intracellular"
+        },
+        {
+          "Name": "Brain",
+          "TransportDirection": "EffluxBrainInterstitialToPlasma",
+          "CompartmentName": "Plasma"
+        },
+        {
+          "Name": "Brain",
+          "TransportDirection": "EffluxBrainTissueToInterstitial",
+          "CompartmentName": "Interstitial"
+        },
+        {
+          "Name": "Fat",
+          "TransportDirection": "EffluxIntracellularToInterstitial",
+          "CompartmentName": "Intracellular"
+        },
+        {
+          "Name": "Gonads",
+          "TransportDirection": "EffluxIntracellularToInterstitial",
+          "CompartmentName": "Intracellular"
+        },
+        {
+          "Name": "Heart",
+          "TransportDirection": "EffluxIntracellularToInterstitial",
+          "CompartmentName": "Intracellular"
+        },
+        {
+          "Name": "Kidney",
+          "TransportDirection": "EffluxIntracellularToInterstitial",
+          "CompartmentName": "Interstitial"
+        },
+        {
+          "Name": "Kidney",
+          "TransportDirection": "ExcretionKidney",
+          "CompartmentName": "Intracellular"
+        },
+        {
+          "Name": "Stomach",
+          "TransportDirection": "EffluxIntracellularToInterstitial",
+          "CompartmentName": "Intracellular"
+        },
+        {
+          "Name": "SmallIntestine",
+          "TransportDirection": "EffluxIntracellularToInterstitial",
+          "CompartmentName": "Intracellular"
+        },
+        {
+          "Name": "Duodenum",
+          "TransportDirection": "EffluxIntracellularToInterstitial",
+          "CompartmentName": "Interstitial"
+        },
+        {
+          "Name": "Duodenum",
+          "TransportDirection": "EffluxMucosaIntracellularToLumen",
+          "CompartmentName": "Intracellular"
+        },
+        {
+          "Name": "UpperJejunum",
+          "TransportDirection": "EffluxIntracellularToInterstitial",
+          "CompartmentName": "Interstitial"
+        },
+        {
+          "Name": "UpperJejunum",
+          "TransportDirection": "EffluxMucosaIntracellularToLumen",
+          "CompartmentName": "Intracellular"
+        },
+        {
+          "Name": "LowerJejunum",
+          "TransportDirection": "EffluxIntracellularToInterstitial",
+          "CompartmentName": "Interstitial"
+        },
+        {
+          "Name": "LowerJejunum",
+          "TransportDirection": "EffluxMucosaIntracellularToLumen",
+          "CompartmentName": "Intracellular"
+        },
+        {
+          "Name": "UpperIleum",
+          "TransportDirection": "EffluxIntracellularToInterstitial",
+          "CompartmentName": "Interstitial"
+        },
+        {
+          "Name": "UpperIleum",
+          "TransportDirection": "EffluxMucosaIntracellularToLumen",
+          "CompartmentName": "Intracellular"
+        },
+        {
+          "Name": "LowerIleum",
+          "TransportDirection": "EffluxIntracellularToInterstitial",
+          "CompartmentName": "Interstitial"
+        },
+        {
+          "Name": "LowerIleum",
+          "TransportDirection": "EffluxMucosaIntracellularToLumen",
+          "CompartmentName": "Intracellular"
+        },
+        {
+          "Name": "LargeIntestine",
+          "TransportDirection": "EffluxIntracellularToInterstitial",
+          "CompartmentName": "Intracellular"
+        },
+        {
+          "Name": "Caecum",
+          "TransportDirection": "EffluxIntracellularToInterstitial",
+          "CompartmentName": "Interstitial"
+        },
+        {
+          "Name": "Caecum",
+          "TransportDirection": "EffluxMucosaIntracellularToLumen",
+          "CompartmentName": "Intracellular"
+        },
+        {
+          "Name": "ColonAscendens",
+          "TransportDirection": "EffluxIntracellularToInterstitial",
+          "CompartmentName": "Interstitial"
+        },
+        {
+          "Name": "ColonAscendens",
+          "TransportDirection": "EffluxMucosaIntracellularToLumen",
+          "CompartmentName": "Intracellular"
+        },
+        {
+          "Name": "ColonTransversum",
+          "TransportDirection": "EffluxIntracellularToInterstitial",
+          "CompartmentName": "Interstitial"
+        },
+        {
+          "Name": "ColonTransversum",
+          "TransportDirection": "EffluxMucosaIntracellularToLumen",
+          "CompartmentName": "Intracellular"
+        },
+        {
+          "Name": "ColonDescendens",
+          "TransportDirection": "EffluxIntracellularToInterstitial",
+          "CompartmentName": "Interstitial"
+        },
+        {
+          "Name": "ColonDescendens",
+          "TransportDirection": "EffluxMucosaIntracellularToLumen",
+          "CompartmentName": "Intracellular"
+        },
+        {
+          "Name": "ColonSigmoid",
+          "TransportDirection": "EffluxIntracellularToInterstitial",
+          "CompartmentName": "Interstitial"
+        },
+        {
+          "Name": "ColonSigmoid",
+          "TransportDirection": "EffluxMucosaIntracellularToLumen",
+          "CompartmentName": "Intracellular"
+        },
+        {
+          "Name": "Rectum",
+          "TransportDirection": "EffluxIntracellularToInterstitial",
+          "CompartmentName": "Interstitial"
+        },
+        {
+          "Name": "Rectum",
+          "TransportDirection": "EffluxMucosaIntracellularToLumen",
+          "CompartmentName": "Intracellular"
+        },
+        {
+          "Name": "Periportal",
+          "TransportDirection": "EffluxIntracellularToInterstitial",
+          "CompartmentName": "Interstitial"
+        },
+        {
+          "Name": "Periportal",
+          "TransportDirection": "ExcretionLiver",
+          "CompartmentName": "Intracellular"
+        },
+        {
+          "Name": "Pericentral",
+          "TransportDirection": "EffluxIntracellularToInterstitial",
+          "CompartmentName": "Interstitial"
+        },
+        {
+          "Name": "Pericentral",
+          "TransportDirection": "ExcretionLiver",
+          "CompartmentName": "Intracellular"
+        },
+        {
+          "Name": "Lung",
+          "TransportDirection": "EffluxIntracellularToInterstitial",
+          "CompartmentName": "Intracellular"
+        },
+        {
+          "Name": "Muscle",
+          "TransportDirection": "EffluxIntracellularToInterstitial",
+          "CompartmentName": "Intracellular"
+        },
+        {
+          "Name": "Pancreas",
+          "TransportDirection": "EffluxIntracellularToInterstitial",
+          "CompartmentName": "Intracellular"
+        },
+        {
+          "Name": "Skin",
+          "TransportDirection": "EffluxIntracellularToInterstitial",
+          "CompartmentName": "Intracellular"
+        },
+        {
+          "Name": "Spleen",
+          "TransportDirection": "EffluxIntracellularToInterstitial",
+          "CompartmentName": "Intracellular"
+        },
+        {
+          "Name": "BloodCells",
+          "TransportDirection": "EffluxBloodCellsToPlasma"
+        },
+        {
+          "Name": "VascularEndothelium",
+          "TransportDirection": "EffluxInterstitialToPlasma"
+        }
+      ]
+    }
+  ],
+  "Individuals": [
+    {
+      "Name": "Kaukonen (1997) - Itraconazole, n=9",
+      "Seed": 517079000,
+      "OriginData": {
+        "CalculationMethods": [
+          "SurfaceAreaPlsInt_VAR1",
+          "Body surface area - Mosteller"
+        ],
+        "Species": "Human",
+        "Population": "European_ICRP_2002",
+        "Gender": "FEMALE",
+        "Age": {
+          "Value": 25.0,
+          "Unit": "year(s)"
+        },
+        "Weight": {
+          "Value": 64.0,
+          "Unit": "kg"
+        }
+      },
+      "Parameters": [
+        {
+          "Path": "Organism|Liver|EHC continuous fraction",
+          "Value": 1.0
+        }
+      ],
+      "ExpressionProfiles": [
+        "CYP3A4|Human|Healthy",
+        "ABCB1|Human|Healthy"
+      ]
+    },
+    {
+      "Name": "Damkier (1999) - Erythromycin/Itraconazole/Grapefruit, n=6",
+      "Seed": 263347468,
+      "OriginData": {
+        "CalculationMethods": [
+          "SurfaceAreaPlsInt_VAR1",
+          "Body surface area - Mosteller"
+        ],
+        "Species": "Human",
+        "Population": "European_ICRP_2002",
+        "Gender": "MALE",
+        "Age": {
+          "Value": 30.0,
+          "Unit": "year(s)"
+        }
+      },
+      "Parameters": [
+        {
+          "Path": "Organism|Liver|EHC continuous fraction",
+          "Value": 1.0
+        }
+      ],
+      "ExpressionProfiles": [
+        "CYP3A4|Human|Healthy",
+        "ABCB1|Human|Healthy"
+      ]
+    }
+  ],
+  "Compounds": [
+    {
+      "Name": "Quinidine",
+      "IsSmallMolecule": true,
+      "PlasmaProteinBindingPartner": "Albumin",
+      "Lipophilicity": [
+        {
+          "Name": "Measurement",
+          "Parameters": [
+            {
+              "Name": "Lipophilicity",
+              "Value": 2.51,
+              "Unit": "Log Units",
+              "ValueOrigin": {
+                "Source": "Internet",
+                "Method": "Unknown",
+                "Description": "drugbank"
+              }
+            }
+          ]
+        }
+      ],
+      "FractionUnbound": [
+        {
+          "Name": "Measurement",
+          "Species": "Human",
+          "Parameters": [
+            {
+              "Name": "Fraction unbound (plasma, reference value)",
+              "Value": 0.2108366055,
+              "ValueOrigin": {
+                "Source": "Publication",
+                "Method": "Other",
+                "Description": "Predicted, Watanabe et al. 2018"
+              }
+            }
+          ]
+        }
+      ],
+      "Solubility": [
+        {
+          "Name": "quinidine sulfate solubility (Grube 2009)",
+          "Parameters": [
+            {
+              "Name": "Solubility at reference pH",
+              "Value": 11.11,
+              "Unit": "mg/ml",
+              "ValueOrigin": {
+                "Source": "Publication",
+                "Method": "InVitro",
+                "Description": "Grube 2009"
+              }
+            },
+            {
+              "Name": "Reference pH",
+              "Value": 7.0,
+              "ValueOrigin": {
+                "Source": "Publication",
+                "Method": "InVitro",
+                "Description": "Grube 2009"
+              }
+            }
+          ]
+        }
+      ],
+      "IntestinalPermeability": [
+        {
+          "Name": "FIT",
+          "Parameters": [
+            {
+              "Name": "Specific intestinal permeability (transcellular)",
+              "Value": 6.472015277E-06,
+              "Unit": "cm/min",
+              "ValueOrigin": {
+                "Source": "ParameterIdentification",
+                "Method": "ParameterIdentification",
+                "Description": "Optimized"
+              }
+            }
+          ]
+        }
+      ],
+      "PkaTypes": [
+        {
+          "Type": "Base",
+          "Pka": 9.05,
+          "ValueOrigin": {
+            "Source": "Publication",
+            "Method": "InVitro",
+            "Description": "Takano2016, drugbank"
+          }
+        },
+        {
+          "Type": "Base",
+          "Pka": 4.02,
+          "ValueOrigin": {
+            "Source": "Publication",
+            "Method": "InVitro",
+            "Description": "Takano2016, drugbank"
+          }
+        },
+        {
+          "Type": "Acid",
+          "Pka": 13.89,
+          "ValueOrigin": {
+            "Source": "Publication",
+            "Method": "InVitro",
+            "Description": "Takano2016, drugbank"
+          }
+        }
+      ],
+      "Processes": [
+        {
+          "InternalName": "GlomerularFiltration",
+          "DataSource": "Assumption",
+          "Species": "Human",
+          "Parameters": [
+            {
+              "Name": "GFR fraction",
+              "Value": 1.0,
+              "ValueOrigin": {
+                "Source": "Other",
+                "Method": "Other"
+              }
+            }
+          ]
+        },
+        {
+          "InternalName": "CompetitiveInhibition",
+          "DataSource": "Moghadamnia 2003",
+          "Molecule": "CYP2D6",
+          "Parameters": [
+            {
+              "Name": "Ki",
+              "Value": 0.017,
+              "Unit": "µmol/l",
+              "ValueOrigin": {
+                "Source": "Publication",
+                "Method": "Other",
+                "Description": "Mohagdamnia 2003"
+              }
+            }
+          ]
+        },
+        {
+          "InternalName": "CompetitiveInhibition",
+          "DataSource": "Lumen 2010",
+          "Molecule": "ABCB1",
+          "Parameters": [
+            {
+              "Name": "Ki",
+              "Value": 0.1,
+              "Unit": "µmol/l"
+            }
+          ]
+        },
+        {
+          "InternalName": "MetabolizationLiverMicrosomes_MM",
+          "DataSource": "Nielsen 1999 (3-Hydroxyquinidine), adjusted for fu,inc (70%)",
+          "Molecule": "CYP3A4",
+          "Metabolite": "3-Hydroxyquinidine",
+          "Parameters": [
+            {
+              "Name": "In vitro Vmax for liver microsomes",
+              "Value": 1.097,
+              "Unit": "nmol/min/mg mic. protein",
+              "ValueOrigin": {
+                "Source": "Publication",
+                "Method": "InVitro",
+                "Description": "Nielsen 1999"
+              }
+            },
+            {
+              "Name": "Km",
+              "Value": 51.8,
+              "Unit": "µmol/l",
+              "ValueOrigin": {
+                "Source": "Publication",
+                "Method": "InVitro",
+                "Description": "Nielsen 1999, corrected for fu,inc (70%)"
+              }
+            },
+            {
+              "Name": "kcat",
+              "Value": 2.2098117205,
+              "Unit": "1/min",
+              "ValueOrigin": {
+                "Source": "ParameterIdentification",
+                "Method": "ParameterIdentification",
+                "Description": "Optimized"
+              }
+            }
+          ]
+        },
+        {
+          "InternalName": "MetabolizationLiverMicrosomes_MM",
+          "DataSource": "Nielsen 1999 (sink), adjusted for fu,inc (70%)",
+          "Molecule": "CYP3A4",
+          "Parameters": [
+            {
+              "Name": "In vitro Vmax for liver microsomes",
+              "Value": 0.27,
+              "Unit": "nmol/min/mg mic. protein",
+              "ValueOrigin": {
+                "Source": "Publication",
+                "Method": "InVitro",
+                "Description": "Nielsen 1999"
+              }
+            },
+            {
+              "Name": "Km",
+              "Value": 65.03,
+              "Unit": "µmol/l",
+              "ValueOrigin": {
+                "Source": "Publication",
+                "Method": "InVitro",
+                "Description": "Nielsen 1999, corrected for fu,inc (70%)"
+              }
+            },
+            {
+              "Name": "kcat",
+              "Value": 3.8413006533,
+              "Unit": "1/min",
+              "ValueOrigin": {
+                "Source": "ParameterIdentification",
+                "Method": "ParameterIdentification",
+                "Description": "Optimized"
+              }
+            }
+          ]
+        },
+        {
+          "InternalName": "ActiveTransportSpecific_MM",
+          "DataSource": "Takano 2016",
+          "Molecule": "ABCB1",
+          "Parameters": [
+            {
+              "Name": "Transporter concentration",
+              "Value": 1.0,
+              "Unit": "µmol/l"
+            },
+            {
+              "Name": "Vmax",
+              "Value": 0.0,
+              "Unit": "µmol/l/min"
+            },
+            {
+              "Name": "Km",
+              "Value": 0.23,
+              "Unit": "µmol/l",
+              "ValueOrigin": {
+                "Source": "Publication",
+                "Method": "InVitro",
+                "Description": "Takano 2016"
+              }
+            },
+            {
+              "Name": "kcat",
+              "Value": 0.7653583636,
+              "Unit": "1/min",
+              "ValueOrigin": {
+                "Source": "ParameterIdentification",
+                "Method": "ParameterIdentification",
+                "Description": "Optimized"
+              }
+            }
+          ],
+          "Description": "A transporter mediated unidirectional transfer of a compound across a cellular membrane is described as saturable process following Michaelis-Menten type kinetics. The corresponding kcat value is calculated from a specific Vmax as input value."
+        },
+        {
+          "InternalName": "LiverClearance",
+          "DataSource": "Assumed",
+          "Species": "Human",
+          "Parameters": [
+            {
+              "Name": "Fraction unbound (experiment)",
+              "Value": 0.2108366055
+            },
+            {
+              "Name": "Lipophilicity (experiment)",
+              "Value": 2.51,
+              "Unit": "Log Units"
+            },
+            {
+              "Name": "Plasma clearance",
+              "Value": 0.0,
+              "Unit": "ml/min/kg"
+            }
+          ]
+        }
+      ],
+      "CalculationMethods": [
+        "Cellular partition coefficient method - Berezhkovskiy",
+        "Cellular permeability - PK-Sim Standard"
+      ],
+      "Parameters": [
+        {
+          "Name": "Molecular weight",
+          "Value": 324.42,
+          "Unit": "g/mol"
+        }
+      ]
+    },
+    {
+      "Name": "3-Hydroxyquinidine",
+      "IsSmallMolecule": true,
+      "PlasmaProteinBindingPartner": "Albumin",
+      "Lipophilicity": [
+        {
+          "Name": "Predicted",
+          "Parameters": [
+            {
+              "Name": "Lipophilicity",
+              "Value": 1.66,
+              "Unit": "Log Units",
+              "ValueOrigin": {
+                "Source": "Internet",
+                "Method": "Unknown",
+                "Description": "Chemicalize"
+              }
+            }
+          ]
+        }
+      ],
+      "FractionUnbound": [
+        {
+          "Name": "Measurement",
+          "Species": "Human",
+          "Parameters": [
+            {
+              "Name": "Fraction unbound (plasma, reference value)",
+              "Value": 0.3097,
+              "ValueOrigin": {
+                "Source": "Publication",
+                "Method": "Other",
+                "Description": "Predicted, Watanabe et al. 2018 (DruMAP from SMILES)"
+              }
+            }
+          ]
+        }
+      ],
+      "Solubility": [
+        {
+          "Name": "Measurement",
+          "Parameters": [
+            {
+              "Name": "Solubility at reference pH",
+              "Value": 12.57,
+              "Unit": "mg/ml",
+              "ValueOrigin": {
+                "Source": "Unknown",
+                "Description": "Chemicalize"
+              }
+            },
+            {
+              "Name": "Reference pH",
+              "Value": 7.4,
+              "ValueOrigin": {
+                "Source": "Unknown",
+                "Description": "Chemicalize"
+              }
+            }
+          ]
+        }
+      ],
+      "PkaTypes": [
+        {
+          "Type": "Base",
+          "Pka": 8.63,
+          "ValueOrigin": {
+            "Source": "Unknown",
+            "Description": "drugbank"
+          }
+        },
+        {
+          "Type": "Base",
+          "Pka": 4.03,
+          "ValueOrigin": {
+            "Source": "Unknown",
+            "Description": "drugbank"
+          }
+        },
+        {
+          "Type": "Acid",
+          "Pka": 13.55,
+          "ValueOrigin": {
+            "Source": "Unknown",
+            "Description": "drugbank"
+          }
+        }
+      ],
+      "Processes": [
+        {
+          "InternalName": "CompetitiveInhibition",
+          "DataSource": "Ching 1991",
+          "Molecule": "CYP2D6",
+          "Parameters": [
+            {
+              "Name": "Ki",
+              "Value": 2.3,
+              "Unit": "µmol/l"
+            }
+          ]
+        },
+        {
+          "InternalName": "GlomerularFiltration",
+          "DataSource": "Assumption",
+          "Species": "Human",
+          "Parameters": [
+            {
+              "Name": "GFR fraction",
+              "Value": 1.0,
+              "ValueOrigin": {
+                "Source": "Other",
+                "Method": "Assumption",
+                "Description": "Assumed"
+              }
+            }
+          ]
+        },
+        {
+          "InternalName": "LiverClearance",
+          "DataSource": "Assumption",
+          "Species": "Human",
+          "Parameters": [
+            {
+              "Name": "Fraction unbound (experiment)",
+              "Value": 0.15
+            },
+            {
+              "Name": "Lipophilicity (experiment)",
+              "Value": 2.41,
+              "Unit": "Log Units"
+            },
+            {
+              "Name": "Plasma clearance",
+              "Value": 0.0,
+              "Unit": "ml/min/kg"
+            },
+            {
+              "Name": "Specific clearance",
+              "Value": 0.4523113726,
+              "Unit": "1/min",
+              "ValueOrigin": {
+                "Source": "ParameterIdentification",
+                "Method": "ParameterIdentification",
+                "Description": "Optimized"
+              }
+            }
+          ]
+        },
+        {
+          "InternalName": "MetabolizationIntrinsic_FirstOrder",
+          "DataSource": "Assumed",
+          "Species": "Human",
+          "Molecule": "CYP3A4",
+          "Parameters": [
+            {
+              "Name": "Intrinsic clearance",
+              "Value": 0.0,
+              "Unit": "l/min"
+            },
+            {
+              "Name": "Specific clearance",
+              "Value": 0.0784146784,
+              "Unit": "1/min",
+              "ValueOrigin": {
+                "Source": "ParameterIdentification",
+                "Method": "ParameterIdentification",
+                "Description": "Optimized"
+              }
+            }
+          ]
+        }
+      ],
+      "CalculationMethods": [
+        "Cellular partition coefficient method - Berezhkovskiy",
+        "Cellular permeability - PK-Sim Standard"
+      ],
+      "Parameters": [
+        {
+          "Name": "Molecular weight",
+          "Value": 340.4162,
+          "Unit": "g/mol"
+        }
+      ]
+    },
+    {
+      "Name": "Itraconazole",
+      "IsSmallMolecule": true,
+      "PlasmaProteinBindingPartner": "Albumin",
+      "Lipophilicity": [
+        {
+          "Name": "Fit",
+          "Parameters": [
+            {
+              "Name": "Lipophilicity",
+              "Value": 4.624,
+              "Unit": "Log Units",
+              "ValueOrigin": {
+                "Source": "ParameterIdentification",
+                "Description": "Fit"
+              }
+            }
+          ]
+        }
+      ],
+      "FractionUnbound": [
+        {
+          "Name": "Templeton, 2008",
+          "Species": "Human",
+          "Parameters": [
+            {
+              "Name": "Fraction unbound (plasma, reference value)",
+              "Value": 0.6016197247,
+              "Unit": "%"
+            }
+          ]
+        }
+      ],
+      "Solubility": [
+        {
+          "Name": "Solution fasted (Taupitz et al. 2013)",
+          "Parameters": [
+            {
+              "Name": "Solubility at reference pH",
+              "Value": 8.0,
+              "Unit": "mg/l",
+              "ValueOrigin": {
+                "Source": "Publication",
+                "Description": "Taupitz et al. 2013"
+              }
+            },
+            {
+              "Name": "Reference pH",
+              "Value": 6.5,
+              "ValueOrigin": {
+                "Source": "Publication",
+                "Description": "Taupitz et al. 2013"
+              }
+            }
+          ]
+        },
+        {
+          "Name": "Solution fed",
+          "IsDefault": false,
+          "Parameters": [
+            {
+              "Name": "Solubility at reference pH",
+              "Value": 1.58,
+              "Unit": "mg/l"
+            },
+            {
+              "Name": "Reference pH",
+              "Value": 6.5
+            }
+          ]
+        },
+        {
+          "Name": "Capsule fasted",
+          "IsDefault": false,
+          "Parameters": [
+            {
+              "Name": "Solubility at reference pH",
+              "Value": 0.9728307177,
+              "Unit": "mg/l",
+              "ValueOrigin": {
+                "Source": "ParameterIdentification",
+                "Method": "ParameterIdentification",
+                "Description": "Value updated from 'Capsule fasted' on 2019-05-15 12:25"
+              }
+            },
+            {
+              "Name": "Reference pH",
+              "Value": 6.5
+            }
+          ]
+        },
+        {
+          "Name": "Capsule fed",
+          "IsDefault": false,
+          "Parameters": [
+            {
+              "Name": "Solubility at reference pH",
+              "Value": 0.7,
+              "Unit": "mg/l"
+            },
+            {
+              "Name": "Reference pH",
+              "Value": 6.5
+            }
+          ]
+        }
+      ],
+      "IntestinalPermeability": [
+        {
+          "Name": "Fit",
+          "Parameters": [
+            {
+              "Name": "Specific intestinal permeability (transcellular)",
+              "Value": 5.3261558344E-05,
+              "Unit": "dm/min",
+              "ValueOrigin": {
+                "Source": "ParameterIdentification",
+                "Description": "Fit"
+              }
+            }
+          ]
+        }
+      ],
+      "Permeability": [
+        {
+          "Name": "Fit",
+          "IsDefault": false,
+          "Parameters": [
+            {
+              "Name": "Permeability",
+              "Value": 0.1111202419,
+              "Unit": "cm/min",
+              "ValueOrigin": {
+                "Source": "ParameterIdentification",
+                "Description": "Fit"
+              }
+            }
+          ]
+        }
+      ],
+      "PkaTypes": [
+        {
+          "Type": "Base",
+          "Pka": 3.7,
+          "ValueOrigin": {
+            "Source": "Unknown"
+          }
+        }
+      ],
+      "Processes": [
+        {
+          "InternalName": "rCYP450_MM",
+          "DataSource": "Isoherranen 2004",
+          "Molecule": "CYP3A4",
+          "Metabolite": "Hydroxy-Itraconazole",
+          "Parameters": [
+            {
+              "Name": "In vitro Vmax/recombinant enzyme",
+              "Value": 0.27,
+              "Unit": "pmol/min/pmol rec. enzyme",
+              "ValueOrigin": {
+                "Source": "Publication",
+                "Description": "Isoherranen 2004"
+              }
+            },
+            {
+              "Name": "Km",
+              "Value": 2.0688492598,
+              "Unit": "nmol/l",
+              "ValueOrigin": {
+                "Source": "Publication",
+                "Description": "Isoherranen 2004"
+              }
+            },
+            {
+              "Name": "kcat",
+              "Value": 0.0402937875,
+              "Unit": "1/min",
+              "ValueOrigin": {
+                "Source": "Unknown"
+              }
+            }
+          ]
+        },
+        {
+          "InternalName": "GlomerularFiltration",
+          "DataSource": "GFR",
+          "Species": "Human",
+          "Parameters": [
+            {
+              "Name": "GFR fraction",
+              "Value": 1.0,
+              "ValueOrigin": {
+                "Source": "Publication",
+                "Description": "Isoherranen 2004"
+              }
+            }
+          ]
+        },
+        {
+          "InternalName": "CompetitiveInhibition",
+          "DataSource": "Isoherranen, 2004",
+          "Molecule": "CYP3A4",
+          "Parameters": [
+            {
+              "Name": "Ki",
+              "Value": 1.3,
+              "Unit": "nmol/l",
+              "ValueOrigin": {
+                "Source": "ParameterIdentification",
+                "Description": "Isoherranen, 2004"
+              }
+            }
+          ]
+        },
+        {
+          "InternalName": "CompetitiveInhibition",
+          "DataSource": "Shityakov 2014",
+          "Molecule": "ABCB1",
+          "Parameters": [
+            {
+              "Name": "Ki",
+              "Value": 0.008,
+              "Unit": "µmol/l",
+              "ValueOrigin": {
+                "Source": "Publication",
+                "Description": "Shityakov 2014"
+              }
+            }
+          ]
+        }
+      ],
+      "CalculationMethods": [
+        "Cellular partition coefficient method - Rodgers and Rowland",
+        "Cellular permeability - PK-Sim Standard"
+      ],
+      "Parameters": [
+        {
+          "Name": "Cl",
+          "Value": 2.0
+        },
+        {
+          "Name": "Molecular weight",
+          "Value": 705.633,
+          "Unit": "g/mol"
+        }
+      ]
+    },
+    {
+      "Name": "Hydroxy-Itraconazole",
+      "IsSmallMolecule": true,
+      "PlasmaProteinBindingPartner": "Albumin",
+      "Lipophilicity": [
+        {
+          "Name": "Fit",
+          "Parameters": [
+            {
+              "Name": "Lipophilicity",
+              "Value": 3.718,
+              "Unit": "Log Units"
+            }
+          ]
+        }
+      ],
+      "FractionUnbound": [
+        {
+          "Name": "Templeton, 2008",
+          "Species": "Human",
+          "Parameters": [
+            {
+              "Name": "Fraction unbound (plasma, reference value)",
+              "Value": 1.7,
+              "Unit": "%",
+              "ValueOrigin": {
+                "Source": "Publication",
+                "Description": "Templeton, 2008"
+              }
+            }
+          ]
+        }
+      ],
+      "Solubility": [
+        {
+          "Name": "No value available",
+          "Parameters": [
+            {
+              "Name": "Solubility at reference pH",
+              "Value": 1.0,
+              "Unit": "mg/l"
+            },
+            {
+              "Name": "Reference pH",
+              "Value": 7.0
+            }
+          ]
+        }
+      ],
+      "PkaTypes": [
+        {
+          "Type": "Base",
+          "Pka": 3.7,
+          "ValueOrigin": {
+            "Source": "Unknown"
+          }
+        }
+      ],
+      "Processes": [
+        {
+          "InternalName": "rCYP450_MM",
+          "DataSource": "Isoherranen 2004",
+          "Molecule": "CYP3A4",
+          "Metabolite": "Keto-Itraconazole",
+          "Parameters": [
+            {
+              "Name": "In vitro Vmax/recombinant enzyme",
+              "Value": 4.1716224833,
+              "Unit": "nmol/min/pmol rec. enzyme",
+              "ValueOrigin": {
+                "Source": "Publication",
+                "Description": "Isoherranen 2004"
+              }
+            },
+            {
+              "Name": "Km",
+              "Value": 4.1716224833,
+              "Unit": "nmol/l",
+              "ValueOrigin": {
+                "Source": "Publication",
+                "Description": "Isoherranen 2004"
+              }
+            },
+            {
+              "Name": "kcat",
+              "Value": 0.0203370845,
+              "Unit": "1/min",
+              "ValueOrigin": {
+                "Source": "Unknown"
+              }
+            }
+          ]
+        },
+        {
+          "InternalName": "GlomerularFiltration",
+          "DataSource": "GFR",
+          "Species": "Human",
+          "Parameters": [
+            {
+              "Name": "GFR fraction",
+              "Value": 1.0,
+              "ValueOrigin": {
+                "Source": "Publication",
+                "Description": "Isoherranen, 2004"
+              }
+            }
+          ]
+        },
+        {
+          "InternalName": "CompetitiveInhibition",
+          "DataSource": "Isoherranen, 2004",
+          "Molecule": "CYP3A4",
+          "Parameters": [
+            {
+              "Name": "Ki",
+              "Value": 14.4,
+              "Unit": "nmol/l",
+              "ValueOrigin": {
+                "Source": "Publication",
+                "Description": "Isoherranen, 2004"
+              }
+            }
+          ]
+        }
+      ],
+      "CalculationMethods": [
+        "Cellular partition coefficient method - Rodgers and Rowland",
+        "Cellular permeability - PK-Sim Standard"
+      ],
+      "Parameters": [
+        {
+          "Name": "Cl",
+          "Value": 2.0
+        },
+        {
+          "Name": "Molecular weight",
+          "Value": 721.633,
+          "Unit": "g/mol"
+        }
+      ]
+    },
+    {
+      "Name": "Keto-Itraconazole",
+      "IsSmallMolecule": true,
+      "PlasmaProteinBindingPartner": "Albumin",
+      "Lipophilicity": [
+        {
+          "Name": "Fit",
+          "Parameters": [
+            {
+              "Name": "Lipophilicity",
+              "Value": 4.2109086248,
+              "Unit": "Log Units"
+            }
+          ]
+        }
+      ],
+      "FractionUnbound": [
+        {
+          "Name": "Templeton, 2008",
+          "Species": "Human",
+          "Parameters": [
+            {
+              "Name": "Fraction unbound (plasma, reference value)",
+              "Value": 1.0,
+              "Unit": "%",
+              "ValueOrigin": {
+                "Source": "Publication",
+                "Description": "Templeton, 2008"
+              }
+            }
+          ]
+        }
+      ],
+      "Solubility": [
+        {
+          "Name": "No value available",
+          "Parameters": [
+            {
+              "Name": "Solubility at reference pH",
+              "Value": 1.0,
+              "Unit": "mg/l"
+            },
+            {
+              "Name": "Reference pH",
+              "Value": 7.0
+            }
+          ]
+        }
+      ],
+      "PkaTypes": [
+        {
+          "Type": "Base",
+          "Pka": 3.7,
+          "ValueOrigin": {
+            "Source": "Unknown"
+          }
+        }
+      ],
+      "Processes": [
+        {
+          "InternalName": "rCYP450_MM",
+          "DataSource": "Isoherranen 2004",
+          "Molecule": "CYP3A4",
+          "Metabolite": "N-desalkyl-Itraconazole",
+          "Parameters": [
+            {
+              "Name": "In vitro Vmax/recombinant enzyme",
+              "Value": 0.0869,
+              "Unit": "pmol/min/pmol rec. enzyme",
+              "ValueOrigin": {
+                "Source": "Publication",
+                "Description": "Isoherranen 2004"
+              }
+            },
+            {
+              "Name": "Km",
+              "Value": 2.2214874285,
+              "Unit": "nmol/l",
+              "ValueOrigin": {
+                "Source": "Publication",
+                "Description": "Isoherranen 2004"
+              }
+            },
+            {
+              "Name": "kcat",
+              "Value": 0.3933927416,
+              "Unit": "1/min",
+              "ValueOrigin": {
+                "Source": "Unknown"
+              }
+            }
+          ]
+        },
+        {
+          "InternalName": "GlomerularFiltration",
+          "DataSource": "GFR",
+          "Species": "Human",
+          "Parameters": [
+            {
+              "Name": "GFR fraction",
+              "Value": 1.0,
+              "ValueOrigin": {
+                "Source": "Publication",
+                "Description": "Isoherranen 2004"
+              }
+            }
+          ]
+        },
+        {
+          "InternalName": "CompetitiveInhibition",
+          "DataSource": "Isoherranen, 2004",
+          "Molecule": "CYP3A4",
+          "Parameters": [
+            {
+              "Name": "Ki",
+              "Value": 5.12,
+              "Unit": "nmol/l",
+              "ValueOrigin": {
+                "Source": "Publication",
+                "Description": "Isoherranen 2004"
+              }
+            }
+          ]
+        }
+      ],
+      "CalculationMethods": [
+        "Cellular partition coefficient method - Rodgers and Rowland",
+        "Cellular permeability - PK-Sim Standard"
+      ],
+      "Parameters": [
+        {
+          "Name": "Cl",
+          "Value": 2.0
+        },
+        {
+          "Name": "Molecular weight",
+          "Value": 719.617,
+          "Unit": "g/mol"
+        }
+      ]
+    },
+    {
+      "Name": "N-desalkyl-Itraconazole",
+      "IsSmallMolecule": true,
+      "PlasmaProteinBindingPartner": "Albumin",
+      "Lipophilicity": [
+        {
+          "Name": "Fit",
+          "Parameters": [
+            {
+              "Name": "Lipophilicity",
+              "Value": 5.1837535822,
+              "Unit": "Log Units"
+            }
+          ]
+        }
+      ],
+      "FractionUnbound": [
+        {
+          "Name": "Templeton, 2008",
+          "Species": "Human",
+          "Parameters": [
+            {
+              "Name": "Fraction unbound (plasma, reference value)",
+              "Value": 1.1,
+              "Unit": "%",
+              "ValueOrigin": {
+                "Source": "Publication",
+                "Description": "Templeton, 2008"
+              }
+            }
+          ]
+        }
+      ],
+      "Solubility": [
+        {
+          "Name": "No value available",
+          "Parameters": [
+            {
+              "Name": "Solubility at reference pH",
+              "Value": 1.0,
+              "Unit": "mg/l"
+            },
+            {
+              "Name": "Reference pH",
+              "Value": 7.0
+            }
+          ]
+        }
+      ],
+      "PkaTypes": [
+        {
+          "Type": "Base",
+          "Pka": 3.7,
+          "ValueOrigin": {
+            "Source": "Unknown"
+          }
+        }
+      ],
+      "Processes": [
+        {
+          "InternalName": "rCYP450_MM",
+          "DataSource": "Isoherranen 2004",
+          "Molecule": "CYP3A4",
+          "Parameters": [
+            {
+              "Name": "In vitro Vmax/recombinant enzyme",
+              "Value": 0.0,
+              "Unit": "nmol/min/pmol rec. enzyme"
+            },
+            {
+              "Name": "Km",
+              "Value": 0.6284266369,
+              "Unit": "nmol/l",
+              "ValueOrigin": {
+                "Source": "Publication",
+                "Description": "Isoherranen 2004"
+              }
+            },
+            {
+              "Name": "kcat",
+              "Value": 0.0605873508,
+              "Unit": "1/min",
+              "ValueOrigin": {
+                "Source": "Unknown"
+              }
+            }
+          ]
+        },
+        {
+          "InternalName": "GlomerularFiltration",
+          "DataSource": "GFR",
+          "Species": "Human",
+          "Parameters": [
+            {
+              "Name": "GFR fraction",
+              "Value": 1.0,
+              "ValueOrigin": {
+                "Source": "Publication",
+                "Description": "Isoherranen 2004"
+              }
+            }
+          ]
+        },
+        {
+          "InternalName": "CompetitiveInhibition",
+          "DataSource": "Isoherranen, 2004",
+          "Molecule": "CYP3A4",
+          "Parameters": [
+            {
+              "Name": "Ki",
+              "Value": 0.32,
+              "Unit": "nmol/l",
+              "ValueOrigin": {
+                "Source": "Publication",
+                "Description": "Isoherranen, 2004"
+              }
+            }
+          ]
+        }
+      ],
+      "CalculationMethods": [
+        "Cellular partition coefficient method - Rodgers and Rowland",
+        "Cellular permeability - PK-Sim Standard"
+      ],
+      "Parameters": [
+        {
+          "Name": "Cl",
+          "Value": 2.0
+        },
+        {
+          "Name": "Molecular weight",
+          "Value": 649.527,
+          "Unit": "g/mol"
+        }
+      ]
+    }
+  ],
+  "Formulations": [
+    {
+      "Name": "Normal release quinidine sulfate (Weibull), Nguyen 2005",
+      "FormulationType": "Formulation_Tablet_Weibull",
+      "Parameters": [
+        {
+          "Name": "Dissolution time (50% dissolved)",
+          "Value": 8.76,
+          "Unit": "min",
+          "ValueOrigin": {
+            "Source": "Publication",
+            "Method": "InVitro",
+            "Description": "Nguyen 2005, calculated using DDSolver"
+          }
+        },
+        {
+          "Name": "Lag time",
+          "Value": 0.0,
+          "Unit": "min"
+        },
+        {
+          "Name": "Dissolution shape",
+          "Value": 0.416,
+          "ValueOrigin": {
+            "Source": "Publication",
+            "Method": "InVitro",
+            "Description": "Nguyen 2005, calculated using DDSolver"
+          }
+        },
+        {
+          "Name": "Use as suspension",
+          "Value": 1.0
+        }
+      ]
+    },
+    {
+      "Name": "Capsule fasted (Itraconazole)",
+      "FormulationType": "Formulation_Tablet_Weibull",
+      "Parameters": [
+        {
+          "Name": "Dissolution time (50% dissolved)",
+          "Value": 406.64,
+          "Unit": "min"
+        },
+        {
+          "Name": "Lag time",
+          "Value": 0.0,
+          "Unit": "min"
+        },
+        {
+          "Name": "Dissolution shape",
+          "Value": 1.1
+        },
+        {
+          "Name": "Use as suspension",
+          "Value": 1.0
+        }
+      ]
+    },
+    {
+      "Name": "Sustained release quinidine sulfate (Weibull)",
+      "FormulationType": "Formulation_Tablet_Weibull",
+      "Parameters": [
+        {
+          "Name": "Dissolution time (50% dissolved)",
+          "Value": 142.0,
+          "Unit": "min"
+        },
+        {
+          "Name": "Lag time",
+          "Value": 0.0,
+          "Unit": "min"
+        },
+        {
+          "Name": "Dissolution shape",
+          "Value": 0.84
+        },
+        {
+          "Name": "Use as suspension",
+          "Value": 1.0
+        }
+      ]
+    }
+  ],
+  "Protocols": [
+    {
+      "Name": "quinidine sulfate 200 mg peroral s.d.",
+      "ApplicationType": "Oral",
+      "DosingInterval": "Single",
+      "Parameters": [
+        {
+          "Name": "Start time",
+          "Value": 0.0,
+          "Unit": "h"
+        },
+        {
+          "Name": "InputDose",
+          "Value": 165.75,
+          "Unit": "mg"
+        },
+        {
+          "Name": "Volume of water/body weight",
+          "Value": 3.5,
+          "Unit": "ml/kg"
+        }
+      ]
+    },
+    {
+      "Name": "quinidine sulfate 100 mg peroral s.d.",
+      "ApplicationType": "Oral",
+      "DosingInterval": "Single",
+      "Parameters": [
+        {
+          "Name": "Start time",
+          "Value": 0.0,
+          "Unit": "h"
+        },
+        {
+          "Name": "InputDose",
+          "Value": 82.87,
+          "Unit": "mg"
+        },
+        {
+          "Name": "Volume of water/body weight",
+          "Value": 3.5,
+          "Unit": "ml/kg"
+        }
+      ]
+    },
+    {
+      "Name": "Damkier (1999) - quinidine sulfate 200 mg peroral s.d. @ 120 h",
+      "DosingInterval": "Single",
+      "Schemas": [
+        {
+          "Name": "Schema 1",
+          "SchemaItems": [
+            {
+              "Name": "Schema Item 1",
+              "ApplicationType": "Oral",
+              "FormulationKey": "Formulation",
+              "Parameters": [
+                {
+                  "Name": "Start time",
+                  "Value": 0.0,
+                  "Unit": "h"
+                },
+                {
+                  "Name": "InputDose",
+                  "Value": 165.75,
+                  "Unit": "mg"
+                },
+                {
+                  "Name": "Volume of water/body weight",
+                  "Value": 3.5,
+                  "Unit": "ml/kg"
+                }
+              ]
+            }
+          ],
+          "Parameters": [
+            {
+              "Name": "Start time",
+              "Value": 120.0,
+              "Unit": "h",
+              "ValueOrigin": {
+                "Source": "Unknown"
+              }
+            },
+            {
+              "Name": "NumberOfRepetitions",
+              "Value": 1.0
+            },
+            {
+              "Name": "TimeBetweenRepetitions",
+              "Value": 0.0,
+              "Unit": "h"
+            }
+          ]
+        }
+      ],
+      "TimeUnit": "h"
+    },
+    {
+      "Name": "Kaukonen (1997) - itraconazole 200 mg q.d. 4 doses",
+      "DosingInterval": "Single",
+      "Schemas": [
+        {
+          "Name": "Schema 1",
+          "SchemaItems": [
+            {
+              "Name": "Schema Item 1",
+              "ApplicationType": "Oral",
+              "FormulationKey": "Formulation",
+              "Parameters": [
+                {
+                  "Name": "Start time",
+                  "Value": 0.0,
+                  "Unit": "h"
+                },
+                {
+                  "Name": "InputDose",
+                  "Value": 200.0,
+                  "Unit": "mg"
+                },
+                {
+                  "Name": "Volume of water/body weight",
+                  "Value": 3.5,
+                  "Unit": "ml/kg"
+                }
+              ]
+            }
+          ],
+          "Parameters": [
+            {
+              "Name": "Start time",
+              "Value": 0.0,
+              "Unit": "h"
+            },
+            {
+              "Name": "NumberOfRepetitions",
+              "Value": 4.0,
+              "ValueOrigin": {
+                "Source": "Unknown"
+              }
+            },
+            {
+              "Name": "TimeBetweenRepetitions",
+              "Value": 24.0,
+              "Unit": "h",
+              "ValueOrigin": {
+                "Source": "Unknown"
+              }
+            }
+          ]
+        }
+      ],
+      "TimeUnit": "h"
+    },
+    {
+      "Name": "Kaukonen (1997) - quinidine sulfate 100 mg peroral s.d. @ 73 h",
+      "DosingInterval": "Single",
+      "Schemas": [
+        {
+          "Name": "Schema 1",
+          "SchemaItems": [
+            {
+              "Name": "Schema Item 1",
+              "ApplicationType": "Oral",
+              "FormulationKey": "Formulation",
+              "Parameters": [
+                {
+                  "Name": "Start time",
+                  "Value": 0.0,
+                  "Unit": "h"
+                },
+                {
+                  "Name": "InputDose",
+                  "Value": 82.87,
+                  "Unit": "mg"
+                },
+                {
+                  "Name": "Volume of water/body weight",
+                  "Value": 3.5,
+                  "Unit": "ml/kg"
+                }
+              ]
+            }
+          ],
+          "Parameters": [
+            {
+              "Name": "Start time",
+              "Value": 73.0,
+              "Unit": "h",
+              "ValueOrigin": {
+                "Source": "Unknown"
+              }
+            },
+            {
+              "Name": "NumberOfRepetitions",
+              "Value": 1.0
+            },
+            {
+              "Name": "TimeBetweenRepetitions",
+              "Value": 0.0,
+              "Unit": "h"
+            }
+          ]
+        }
+      ],
+      "TimeUnit": "h"
+    },
+    {
+      "Name": "Damkier (1999) - itraconazole 100 mg q.d. 7 doses",
+      "DosingInterval": "Single",
+      "Schemas": [
+        {
+          "Name": "Schema 1",
+          "SchemaItems": [
+            {
+              "Name": "Schema Item 1",
+              "ApplicationType": "Oral",
+              "FormulationKey": "Formulation",
+              "Parameters": [
+                {
+                  "Name": "Start time",
+                  "Value": 0.0,
+                  "Unit": "h"
+                },
+                {
+                  "Name": "InputDose",
+                  "Value": 100.0,
+                  "Unit": "mg"
+                },
+                {
+                  "Name": "Volume of water/body weight",
+                  "Value": 3.5,
+                  "Unit": "ml/kg"
+                }
+              ]
+            }
+          ],
+          "Parameters": [
+            {
+              "Name": "Start time",
+              "Value": 0.0,
+              "Unit": "h"
+            },
+            {
+              "Name": "NumberOfRepetitions",
+              "Value": 7.0,
+              "ValueOrigin": {
+                "Source": "Unknown"
+              }
+            },
+            {
+              "Name": "TimeBetweenRepetitions",
+              "Value": 24.0,
+              "Unit": "h",
+              "ValueOrigin": {
+                "Source": "Unknown"
+              }
+            }
+          ]
+        }
+      ],
+      "TimeUnit": "h"
+    }
+  ],
+  "Events": [
+    {
+      "Name": "Urinary bladder emptying",
+      "Template": "Urinary bladder emptying"
+    }
+  ],
+  "Simulations": [
+    {
+      "Name": "Kaukonen (1997) - quinidine sulfate, 100 mg, po, n=9",
+      "Model": "4Comp",
+      "ObservedData": [
+        "Kaukonen (1997) - quinidine sulfate, 100 mg, po, n=9, quinidine",
+        "Kaukonen (1997) - quinidine sulfate, 100 mg, po, n=9, quinidine urine"
+      ],
+      "Solver": {},
+      "OutputSchema": [
+        {
+          "Parameters": [
+            {
+              "Name": "Start time",
+              "Value": 0.0,
+              "Unit": "h"
+            },
+            {
+              "Name": "End time",
+              "Value": 36.0,
+              "Unit": "h",
+              "ValueOrigin": {
+                "Source": "Unknown"
+              }
+            },
+            {
+              "Name": "Resolution",
+              "Value": 20.0,
+              "Unit": "pts/h",
+              "ValueOrigin": {
+                "Source": "Unknown"
+              }
+            }
+          ]
+        }
+      ],
+      "Parameters": [
+        {
+          "Path": "Applications|quinidine sulfate 100 mg peroral s.d.|Sustained release quinidine sulfate (Weibull)|Application_1|ProtocolSchemaItem|Volume of water/body weight",
+          "Value": 3.5,
+          "Unit": "ml/kg"
+        },
+        {
+          "Path": "Undefined Liver|Reference concentration",
+          "Value": 1.0,
+          "Unit": "µmol/l"
+        },
+        {
+          "Path": "Undefined Liver|t1/2 (intestine)",
+          "Value": 1380.0,
+          "Unit": "min"
+        },
+        {
+          "Path": "Undefined Liver|t1/2 (liver)",
+          "Value": 2160.0,
+          "Unit": "min"
+        }
+      ],
+      "OutputSelections": [
+        "Organism|PeripheralVenousBlood|3-Hydroxyquinidine|Plasma (Peripheral Venous Blood)",
+        "Organism|PeripheralVenousBlood|Quinidine|Plasma (Peripheral Venous Blood)",
+        "Organism|Kidney|Urine|3-Hydroxyquinidine",
+        "Organism|Kidney|Urine|Quinidine"
+      ],
+      "Individual": "Kaukonen (1997) - Itraconazole, n=9",
+      "Compounds": [
+        {
+          "Name": "3-Hydroxyquinidine",
+          "CalculationMethods": [
+            "Cellular partition coefficient method - Berezhkovskiy",
+            "Cellular permeability - PK-Sim Standard"
+          ],
+          "Processes": [
+            {
+              "Name": "CYP3A4-Assumed",
+              "MoleculeName": "CYP3A4"
+            },
+            {
+              "Name": "Total Hepatic Clearance-Assumption",
+              "SystemicProcessType": "Hepatic"
+            },
+            {
+              "Name": "Glomerular Filtration-Assumption",
+              "SystemicProcessType": "GFR"
+            }
+          ]
+        },
+        {
+          "Name": "Quinidine",
+          "CalculationMethods": [
+            "Cellular partition coefficient method - Berezhkovskiy",
+            "Cellular permeability - PK-Sim Standard"
+          ],
+          "Alternatives": [
+            {
+              "AlternativeName": "FIT",
+              "GroupName": "COMPOUND_INTESTINAL_PERMEABILITY"
+            }
+          ],
+          "Processes": [
+            {
+              "Name": "CYP3A4-Nielsen 1999 (3-Hydroxyquinidine), adjusted for fu,inc (70%)",
+              "MoleculeName": "CYP3A4",
+              "MetaboliteName": "3-Hydroxyquinidine"
+            },
+            {
+              "Name": "CYP3A4-Nielsen 1999 (sink), adjusted for fu,inc (70%)",
+              "MoleculeName": "CYP3A4"
+            },
+            {
+              "MoleculeName": "CYP3A4"
+            },
+            {
+              "Name": "Total Hepatic Clearance-Assumed",
+              "SystemicProcessType": "Hepatic"
+            },
+            {
+              "Name": "ABCB1-Takano 2016",
+              "MoleculeName": "ABCB1"
+            },
+            {
+              "MoleculeName": "ABCB1"
+            },
+            {
+              "Name": "Glomerular Filtration-Assumption",
+              "SystemicProcessType": "GFR"
+            }
+          ],
+          "Protocol": {
+            "Name": "quinidine sulfate 100 mg peroral s.d.",
+            "Formulations": [
+              {
+                "Name": "Sustained release quinidine sulfate (Weibull)",
+                "Key": "Formulation"
+              }
+            ]
+          }
+        }
+      ],
+      "HasResults": true,
+      "IndividualAnalyses": [
+        {
+          "Axes": [
+            {
+              "Unit": "h",
+              "Dimension": "Time",
+              "Type": "X",
+              "GridLines": false,
+              "Visible": true,
+              "DefaultColor": "#FFFFFF",
+              "DefaultLineStyle": "None",
+              "Scaling": "Linear",
+              "NumberMode": "Normal"
+            },
+            {
+              "Unit": "ng/ml",
+              "Dimension": "Concentration (molar)",
+              "Type": "Y",
+              "GridLines": false,
+              "Visible": true,
+              "DefaultColor": "#FFFFFF",
+              "DefaultLineStyle": "Solid",
+              "Scaling": "Linear",
+              "NumberMode": "Normal"
+            },
+            {
+              "Unit": "µmol",
+              "Dimension": "Amount",
+              "Type": "Y2",
+              "GridLines": false,
+              "Visible": true,
+              "DefaultColor": "#FFFFFF",
+              "DefaultLineStyle": "Dash",
+              "Scaling": "Linear",
+              "NumberMode": "Normal"
+            }
+          ],
+          "Curves": [
+            {
+              "Name": "Quinidine-Peripheral Venous Blood-Plasma-Concentration",
+              "X": "Time",
+              "Y": "Kaukonen (1997) - quinidine sulfate, 100 mg, po, n=9|Organism|PeripheralVenousBlood|Quinidine|Plasma (Peripheral Venous Blood)",
+              "CurveOptions": {
+                "Color": "#000000",
+                "LegendIndex": 2
+              }
+            },
+            {
+              "Name": "Kaukonen (1997) - quinidine sulfate, 100 mg, po, n=9, quinidine-Quinidine-Peripheral Venous Blood-Plasma-Measurement",
+              "X": "Kaukonen (1997) - quinidine sulfate, 100 mg, po, n=9, quinidine|Time",
+              "Y": "Kaukonen (1997) - quinidine sulfate, 100 mg, po, n=9, quinidine|ObservedData|Peripheral Venous Blood|Plasma|Quinidine|Measurement",
+              "CurveOptions": {
+                "Color": "#000000",
+                "LegendIndex": 6,
+                "LineStyle": "None",
+                "Symbol": "Circle"
+              }
+            },
+            {
+              "Name": "Quinidine-Kidney-Urine-Amount in container",
+              "X": "Time",
+              "Y": "Kaukonen (1997) - quinidine sulfate, 100 mg, po, n=9|Organism|Kidney|Urine|Quinidine",
+              "CurveOptions": {
+                "yAxisType": "Y2",
+                "Color": "#0000FF",
+                "LegendIndex": 4,
+                "LineStyle": "Dash"
+              }
+            },
+            {
+              "Name": "Kaukonen (1997) - quinidine sulfate, 100 mg, po, n=9, quinidine urine-Quinidine-Kidney-Urine-Measurement",
+              "X": "Kaukonen (1997) - quinidine sulfate, 100 mg, po, n=9, quinidine urine|Time",
+              "Y": "Kaukonen (1997) - quinidine sulfate, 100 mg, po, n=9, quinidine urine|ObservedData|Kidney|Urine|Quinidine|Measurement",
+              "CurveOptions": {
+                "yAxisType": "Y2",
+                "Color": "#0000FF",
+                "LegendIndex": 5,
+                "LineStyle": "None",
+                "Symbol": "Circle"
+              }
+            }
+          ],
+          "Name": "Time Profile Analysis",
+          "FontAndSize": {
+            "Fonts": {
+              "AxisSize": 10,
+              "LegendSize": 8,
+              "TitleSize": 16,
+              "DescriptionSize": 12,
+              "OriginSize": 8,
+              "FontFamilyName": "Microsoft Sans Serif",
+              "WatermarkSize": 32
+            }
+          },
+          "Settings": {
+            "SideMarginsEnabled": true,
+            "LegendPosition": "RightInside",
+            "BackColor": "#FFFFFF",
+            "DiagramBackColor": "#FFFFFF"
+          },
+          "OriginText": "Quinidine-Victim-DDI-Model_with_Ery_final_model\nKaukonen (1997) - quinidine sulfate, 100 mg, po, n=9\n2023-05-23 14:28"
+        }
+      ]
+    },
+    {
+      "Name": "Kaukonen (1997) - DDI - itraconazole-quinidine, 200/100 mg, po, n=9",
+      "Model": "4Comp",
+      "ObservedData": [
+        "Kaukonen (1997) - DDI - itraconazole-quinidine, 200_100 mg, po, n=9, quinidine",
+        "Kaukonen (1997) - DDI - itraconazole-quinidine, 200_100 mg, po, n=9, itraconazole",
+        "Kaukonen (1997) - DDI - itraconazole-quinidine, 200_100 mg, po, n=9, hydroxyitraconazole",
+        "Kaukonen (1997) - DDI - itraconazole-quinidine, 200_100 mg, po, n=9, quinidine urine"
+      ],
+      "Solver": {},
+      "OutputSchema": [
+        {
+          "Parameters": [
+            {
+              "Name": "Start time",
+              "Value": 0.0,
+              "Unit": "h",
+              "ValueOrigin": {
+                "Source": "Unknown"
+              }
+            },
+            {
+              "Name": "End time",
+              "Value": 108.0,
+              "Unit": "h",
+              "ValueOrigin": {
+                "Source": "Unknown"
+              }
+            },
+            {
+              "Name": "Resolution",
+              "Value": 20.0,
+              "Unit": "pts/h",
+              "ValueOrigin": {
+                "Source": "Unknown"
+              }
+            }
+          ]
+        }
+      ],
+      "Parameters": [
+        {
+          "Path": "Applications|Kaukonen (1997) - itraconazole 200 mg q.d. 4 doses|Capsule fasted (Itraconazole)|Application_1|ProtocolSchemaItem|Volume of water/body weight",
+          "Value": 3.5,
+          "Unit": "ml/kg"
+        },
+        {
+          "Path": "Applications|Kaukonen (1997) - itraconazole 200 mg q.d. 4 doses|Capsule fasted (Itraconazole)|Application_2|ProtocolSchemaItem|Volume of water/body weight",
+          "Value": 3.5,
+          "Unit": "ml/kg"
+        },
+        {
+          "Path": "Applications|Kaukonen (1997) - itraconazole 200 mg q.d. 4 doses|Capsule fasted (Itraconazole)|Application_3|ProtocolSchemaItem|Volume of water/body weight",
+          "Value": 3.5,
+          "Unit": "ml/kg"
+        },
+        {
+          "Path": "Applications|Kaukonen (1997) - itraconazole 200 mg q.d. 4 doses|Capsule fasted (Itraconazole)|Application_4|ProtocolSchemaItem|Volume of water/body weight",
+          "Value": 3.5,
+          "Unit": "ml/kg"
+        },
+        {
+          "Path": "Applications|Kaukonen (1997) - quinidine sulfate 100 mg peroral s.d. @ 73 h|Sustained release quinidine sulfate (Weibull)|Application_1|ProtocolSchemaItem|Volume of water/body weight",
+          "Value": 3.5,
+          "Unit": "ml/kg"
+        },
+        {
+          "Path": "Undefined Liver|Reference concentration",
+          "Value": 1.0,
+          "Unit": "µmol/l"
+        },
+        {
+          "Path": "Undefined Liver|t1/2 (intestine)",
+          "Value": 1380.0,
+          "Unit": "min"
+        },
+        {
+          "Path": "Undefined Liver|t1/2 (liver)",
+          "Value": 2160.0,
+          "Unit": "min"
+        }
+      ],
+      "OutputSelections": [
+        "Organism|PeripheralVenousBlood|3-Hydroxyquinidine|Plasma (Peripheral Venous Blood)",
+        "Organism|PeripheralVenousBlood|Quinidine|Plasma (Peripheral Venous Blood)",
+        "Organism|PeripheralVenousBlood|Hydroxy-Itraconazole|Plasma (Peripheral Venous Blood)",
+        "Organism|PeripheralVenousBlood|Itraconazole|Plasma (Peripheral Venous Blood)",
+        "Organism|PeripheralVenousBlood|Keto-Itraconazole|Plasma (Peripheral Venous Blood)",
+        "Organism|PeripheralVenousBlood|N-desalkyl-Itraconazole|Plasma (Peripheral Venous Blood)",
+        "Organism|Kidney|Urine|3-Hydroxyquinidine",
+        "Organism|Kidney|Urine|Quinidine",
+        "Organism|Kidney|Urine|Hydroxy-Itraconazole",
+        "Organism|Kidney|Urine|Itraconazole",
+        "Organism|Kidney|Urine|Keto-Itraconazole",
+        "Organism|Kidney|Urine|N-desalkyl-Itraconazole"
+      ],
+      "Individual": "Kaukonen (1997) - Itraconazole, n=9",
+      "Compounds": [
+        {
+          "Name": "3-Hydroxyquinidine",
+          "CalculationMethods": [
+            "Cellular partition coefficient method - Berezhkovskiy",
+            "Cellular permeability - PK-Sim Standard"
+          ],
+          "Processes": [
+            {
+              "Name": "CYP3A4-Assumed",
+              "MoleculeName": "CYP3A4"
+            },
+            {
+              "Name": "Total Hepatic Clearance-Assumption",
+              "SystemicProcessType": "Hepatic"
+            },
+            {
+              "Name": "Glomerular Filtration-Assumption",
+              "SystemicProcessType": "GFR"
+            }
+          ]
+        },
+        {
+          "Name": "Quinidine",
+          "CalculationMethods": [
+            "Cellular partition coefficient method - Berezhkovskiy",
+            "Cellular permeability - PK-Sim Standard"
+          ],
+          "Alternatives": [
+            {
+              "AlternativeName": "FIT",
+              "GroupName": "COMPOUND_INTESTINAL_PERMEABILITY"
+            }
+          ],
+          "Processes": [
+            {
+              "Name": "CYP3A4-Nielsen 1999 (3-Hydroxyquinidine), adjusted for fu,inc (70%)",
+              "MoleculeName": "CYP3A4",
+              "MetaboliteName": "3-Hydroxyquinidine"
+            },
+            {
+              "Name": "CYP3A4-Nielsen 1999 (sink), adjusted for fu,inc (70%)",
+              "MoleculeName": "CYP3A4"
+            },
+            {
+              "MoleculeName": "CYP3A4"
+            },
+            {
+              "Name": "Total Hepatic Clearance-Assumed",
+              "SystemicProcessType": "Hepatic"
+            },
+            {
+              "Name": "ABCB1-Takano 2016",
+              "MoleculeName": "ABCB1"
+            },
+            {
+              "MoleculeName": "ABCB1"
+            },
+            {
+              "Name": "Glomerular Filtration-Assumption",
+              "SystemicProcessType": "GFR"
+            }
+          ],
+          "Protocol": {
+            "Name": "Kaukonen (1997) - quinidine sulfate 100 mg peroral s.d. @ 73 h",
+            "Formulations": [
+              {
+                "Name": "Sustained release quinidine sulfate (Weibull)",
+                "Key": "Formulation"
+              }
+            ]
+          }
+        },
+        {
+          "Name": "Hydroxy-Itraconazole",
+          "CalculationMethods": [
+            "Cellular partition coefficient method - Rodgers and Rowland",
+            "Cellular permeability - PK-Sim Standard"
+          ],
+          "Processes": [
+            {
+              "Name": "CYP3A4-Isoherranen 2004",
+              "MoleculeName": "CYP3A4",
+              "MetaboliteName": "Keto-Itraconazole"
+            },
+            {
+              "Name": "Glomerular Filtration-GFR",
+              "SystemicProcessType": "GFR"
+            }
+          ]
+        },
+        {
+          "Name": "Itraconazole",
+          "CalculationMethods": [
+            "Cellular partition coefficient method - Rodgers and Rowland",
+            "Cellular permeability - PK-Sim Standard"
+          ],
+          "Alternatives": [
+            {
+              "AlternativeName": "Solution fasted (Taupitz et al. 2013)",
+              "GroupName": "COMPOUND_SOLUBILITY"
+            },
+            {
+              "AlternativeName": "Calculated",
+              "GroupName": "COMPOUND_PERMEABILITY"
+            },
+            {
+              "AlternativeName": "Fit",
+              "GroupName": "COMPOUND_INTESTINAL_PERMEABILITY"
+            }
+          ],
+          "Processes": [
+            {
+              "Name": "CYP3A4-Isoherranen 2004",
+              "MoleculeName": "CYP3A4",
+              "MetaboliteName": "Hydroxy-Itraconazole"
+            },
+            {
+              "Name": "Glomerular Filtration-GFR",
+              "SystemicProcessType": "GFR"
+            }
+          ],
+          "Protocol": {
+            "Name": "Kaukonen (1997) - itraconazole 200 mg q.d. 4 doses",
+            "Formulations": [
+              {
+                "Name": "Capsule fasted (Itraconazole)",
+                "Key": "Formulation"
+              }
+            ]
+          }
+        },
+        {
+          "Name": "Keto-Itraconazole",
+          "CalculationMethods": [
+            "Cellular partition coefficient method - Rodgers and Rowland",
+            "Cellular permeability - PK-Sim Standard"
+          ],
+          "Processes": [
+            {
+              "Name": "CYP3A4-Isoherranen 2004",
+              "MoleculeName": "CYP3A4",
+              "MetaboliteName": "N-desalkyl-Itraconazole"
+            },
+            {
+              "Name": "Glomerular Filtration-GFR",
+              "SystemicProcessType": "GFR"
+            }
+          ]
+        },
+        {
+          "Name": "N-desalkyl-Itraconazole",
+          "CalculationMethods": [
+            "Cellular partition coefficient method - Rodgers and Rowland",
+            "Cellular permeability - PK-Sim Standard"
+          ],
+          "Processes": [
+            {
+              "Name": "CYP3A4-Isoherranen 2004",
+              "MoleculeName": "CYP3A4"
+            },
+            {
+              "Name": "Glomerular Filtration-GFR",
+              "SystemicProcessType": "GFR"
+            }
+          ]
+        }
+      ],
+      "Events": [
+        {
+          "Name": "Urinary bladder emptying",
+          "StartTime": {
+            "Value": 73.0,
+            "Unit": "h",
+            "ValueOrigin": {
+              "Source": "Unknown"
+            }
+          }
+        }
+      ],
+      "HasResults": true,
+      "IndividualAnalyses": [
+        {
+          "Axes": [
+            {
+              "Unit": "h",
+              "Dimension": "Time",
+              "Type": "X",
+              "GridLines": false,
+              "Visible": true,
+              "Min": 59.11092,
+              "Max": 97.9015,
+              "DefaultColor": "#FFFFFF",
+              "DefaultLineStyle": "None",
+              "Scaling": "Linear",
+              "NumberMode": "Normal"
+            },
+            {
+              "Unit": "µmol/l",
+              "Dimension": "Concentration (molar)",
+              "Type": "Y",
+              "GridLines": false,
+              "Visible": true,
+              "Min": -0.08481639,
+              "Max": 0.9905787,
+              "DefaultColor": "#FFFFFF",
+              "DefaultLineStyle": "Solid",
+              "Scaling": "Linear",
+              "NumberMode": "Normal"
+            },
+            {
+              "Unit": "µmol",
+              "Dimension": "Amount",
+              "Type": "Y2",
+              "GridLines": false,
+              "Visible": true,
+              "Min": 16.48191,
+              "Max": 99.38493,
+              "DefaultColor": "#FFFFFF",
+              "DefaultLineStyle": "Dash",
+              "Scaling": "Linear",
+              "NumberMode": "Normal"
+            }
+          ],
+          "Curves": [
+            {
+              "Name": "Quinidine-Peripheral Venous Blood-Plasma-Concentration",
+              "X": "Time",
+              "Y": "Kaukonen (1997) - DDI - itraconazole-quinidine, 200/100 mg, po, n=9|Organism|PeripheralVenousBlood|Quinidine|Plasma (Peripheral Venous Blood)",
+              "CurveOptions": {
+                "Color": "#000000",
+                "LegendIndex": 2
+              }
+            },
+            {
+              "Name": "Kaukonen (1997) - DDI - itraconazole-quinidine, 200_100 mg, po, n=9, hydroxyitraconazole-Hydroxy-Itraconazole-Peripheral Venous Blood-Plasma-Measurement",
+              "X": "Kaukonen (1997) - DDI - itraconazole-quinidine, 200_100 mg, po, n=9, hydroxyitraconazole|Time",
+              "Y": "Kaukonen (1997) - DDI - itraconazole-quinidine, 200_100 mg, po, n=9, hydroxyitraconazole|ObservedData|Peripheral Venous Blood|Plasma|Hydroxy-Itraconazole|Measurement",
+              "CurveOptions": {
+                "Color": "#FF8000",
+                "LegendIndex": 14,
+                "LineStyle": "None",
+                "Symbol": "Circle"
+              }
+            },
+            {
+              "Name": "Kaukonen (1997) - DDI - itraconazole-quinidine, 200_100 mg, po, n=9, itraconazole-Itraconazole-Peripheral Venous Blood-Plasma-Measurement",
+              "X": "Kaukonen (1997) - DDI - itraconazole-quinidine, 200_100 mg, po, n=9, itraconazole|Time",
+              "Y": "Kaukonen (1997) - DDI - itraconazole-quinidine, 200_100 mg, po, n=9, itraconazole|ObservedData|Peripheral Venous Blood|Plasma|Itraconazole|Measurement",
+              "CurveOptions": {
+                "Color": "#FF00FF",
+                "LegendIndex": 15,
+                "LineStyle": "None",
+                "Symbol": "Circle"
+              }
+            },
+            {
+              "Name": "Kaukonen (1997) - DDI - itraconazole-quinidine, 200_100 mg, po, n=9, quinidine-Quinidine-Peripheral Venous Blood-Plasma-Measurement",
+              "X": "Kaukonen (1997) - DDI - itraconazole-quinidine, 200_100 mg, po, n=9, quinidine|Time",
+              "Y": "Kaukonen (1997) - DDI - itraconazole-quinidine, 200_100 mg, po, n=9, quinidine|ObservedData|Peripheral Venous Blood|Plasma|Quinidine|Measurement",
+              "CurveOptions": {
+                "Color": "#000000",
+                "LegendIndex": 16,
+                "LineStyle": "None",
+                "Symbol": "Circle"
+              }
+            },
+            {
+              "Name": "Itraconazole-Peripheral Venous Blood-Plasma-Concentration",
+              "X": "Time",
+              "Y": "Kaukonen (1997) - DDI - itraconazole-quinidine, 200/100 mg, po, n=9|Organism|PeripheralVenousBlood|Itraconazole|Plasma (Peripheral Venous Blood)",
+              "CurveOptions": {
+                "Color": "#FF00FF",
+                "LegendIndex": 7
+              }
+            },
+            {
+              "Name": "Hydroxy-Itraconazole-Peripheral Venous Blood-Plasma-Concentration",
+              "X": "Time",
+              "Y": "Kaukonen (1997) - DDI - itraconazole-quinidine, 200/100 mg, po, n=9|Organism|PeripheralVenousBlood|Hydroxy-Itraconazole|Plasma (Peripheral Venous Blood)",
+              "CurveOptions": {
+                "Color": "#FF8000",
+                "LegendIndex": 8
+              }
+            },
+            {
+              "Name": "Quinidine-Kidney-Urine-Amount in container",
+              "X": "Time",
+              "Y": "Kaukonen (1997) - DDI - itraconazole-quinidine, 200/100 mg, po, n=9|Organism|Kidney|Urine|Quinidine",
+              "CurveOptions": {
+                "yAxisType": "Y2",
+                "Color": "#0000FF",
+                "LegendIndex": 12,
+                "LineStyle": "Dash"
+              }
+            },
+            {
+              "Name": "Kaukonen (1997) - DDI - itraconazole-quinidine, 200_100 mg, po, n=9, quinidine urine-Quinidine-Kidney-Urine-Measurement",
+              "X": "Kaukonen (1997) - DDI - itraconazole-quinidine, 200_100 mg, po, n=9, quinidine urine|Time",
+              "Y": "Kaukonen (1997) - DDI - itraconazole-quinidine, 200_100 mg, po, n=9, quinidine urine|ObservedData|Kidney|Urine|Quinidine|Measurement",
+              "CurveOptions": {
+                "yAxisType": "Y2",
+                "Color": "#0000FF",
+                "LegendIndex": 13,
+                "LineStyle": "None",
+                "Symbol": "Circle"
+              }
+            }
+          ],
+          "Name": "Time Profile Analysis",
+          "FontAndSize": {
+            "Fonts": {
+              "AxisSize": 10,
+              "LegendSize": 8,
+              "TitleSize": 16,
+              "DescriptionSize": 12,
+              "OriginSize": 8,
+              "FontFamilyName": "Microsoft Sans Serif",
+              "WatermarkSize": 32
+            }
+          },
+          "Settings": {
+            "SideMarginsEnabled": true,
+            "LegendPosition": "RightInside",
+            "BackColor": "#00FFFFFF",
+            "DiagramBackColor": "#FFFFFF"
+          },
+          "OriginText": "Quinidine-Victim-DDI-Model_with_Ery_final_model\nKaukonen (1997) - DDI - itraconazole-quinidine, 200/100 mg, po, n=9\n2023-05-23 14:20"
+        }
+      ],
+      "Interactions": [
+        {
+          "Name": "ABCB1-Lumen 2010",
+          "MoleculeName": "ABCB1",
+          "CompoundName": "Quinidine"
+        },
+        {
+          "Name": "CYP3A4-Isoherranen, 2004",
+          "MoleculeName": "CYP3A4",
+          "CompoundName": "Hydroxy-Itraconazole"
+        },
+        {
+          "Name": "CYP3A4-Isoherranen, 2004",
+          "MoleculeName": "CYP3A4",
+          "CompoundName": "Itraconazole"
+        },
+        {
+          "Name": "ABCB1-Shityakov 2014",
+          "MoleculeName": "ABCB1",
+          "CompoundName": "Itraconazole"
+        },
+        {
+          "Name": "CYP3A4-Isoherranen, 2004",
+          "MoleculeName": "CYP3A4",
+          "CompoundName": "Keto-Itraconazole"
+        },
+        {
+          "Name": "CYP3A4-Isoherranen, 2004",
+          "MoleculeName": "CYP3A4",
+          "CompoundName": "N-desalkyl-Itraconazole"
+        }
+      ]
+    },
+    {
+      "Name": "Damkier (1999) - quinidine sulfate, 200 mg, po, n=6 (DDI Itra)",
+      "Model": "4Comp",
+      "Solver": {},
+      "OutputSchema": [
+        {
+          "Parameters": [
+            {
+              "Name": "Start time",
+              "Value": 0.0,
+              "Unit": "h"
+            },
+            {
+              "Name": "End time",
+              "Value": 48.0,
+              "Unit": "h",
+              "ValueOrigin": {
+                "Source": "Unknown"
+              }
+            },
+            {
+              "Name": "Resolution",
+              "Value": 20.0,
+              "Unit": "pts/h",
+              "ValueOrigin": {
+                "Source": "Unknown"
+              }
+            }
+          ]
+        }
+      ],
+      "Parameters": [
+        {
+          "Path": "Applications|quinidine sulfate 200 mg peroral s.d.|Normal release quinidine sulfate (Weibull), Nguyen 2005|Application_1|ProtocolSchemaItem|Volume of water/body weight",
+          "Value": 3.5,
+          "Unit": "ml/kg"
+        },
+        {
+          "Path": "Undefined Liver|Reference concentration",
+          "Value": 1.0,
+          "Unit": "µmol/l"
+        },
+        {
+          "Path": "Undefined Liver|t1/2 (intestine)",
+          "Value": 1380.0,
+          "Unit": "min"
+        },
+        {
+          "Path": "Undefined Liver|t1/2 (liver)",
+          "Value": 2160.0,
+          "Unit": "min"
+        }
+      ],
+      "OutputSelections": [
+        "Organism|PeripheralVenousBlood|3-Hydroxyquinidine|Plasma (Peripheral Venous Blood)",
+        "Organism|PeripheralVenousBlood|Quinidine|Plasma (Peripheral Venous Blood)"
+      ],
+      "Individual": "Damkier (1999) - Erythromycin/Itraconazole/Grapefruit, n=6",
+      "Compounds": [
+        {
+          "Name": "3-Hydroxyquinidine",
+          "CalculationMethods": [
+            "Cellular partition coefficient method - Berezhkovskiy",
+            "Cellular permeability - PK-Sim Standard"
+          ],
+          "Processes": [
+            {
+              "Name": "CYP3A4-Assumed",
+              "MoleculeName": "CYP3A4"
+            },
+            {
+              "Name": "Total Hepatic Clearance-Assumption",
+              "SystemicProcessType": "Hepatic"
+            },
+            {
+              "Name": "Glomerular Filtration-Assumption",
+              "SystemicProcessType": "GFR"
+            }
+          ]
+        },
+        {
+          "Name": "Quinidine",
+          "CalculationMethods": [
+            "Cellular partition coefficient method - Berezhkovskiy",
+            "Cellular permeability - PK-Sim Standard"
+          ],
+          "Alternatives": [
+            {
+              "AlternativeName": "FIT",
+              "GroupName": "COMPOUND_INTESTINAL_PERMEABILITY"
+            }
+          ],
+          "Processes": [
+            {
+              "Name": "CYP3A4-Nielsen 1999 (3-Hydroxyquinidine), adjusted for fu,inc (70%)",
+              "MoleculeName": "CYP3A4",
+              "MetaboliteName": "3-Hydroxyquinidine"
+            },
+            {
+              "Name": "CYP3A4-Nielsen 1999 (sink), adjusted for fu,inc (70%)",
+              "MoleculeName": "CYP3A4"
+            },
+            {
+              "MoleculeName": "CYP3A4"
+            },
+            {
+              "Name": "Total Hepatic Clearance-Assumed",
+              "SystemicProcessType": "Hepatic"
+            },
+            {
+              "Name": "ABCB1-Takano 2016",
+              "MoleculeName": "ABCB1"
+            },
+            {
+              "MoleculeName": "ABCB1"
+            },
+            {
+              "Name": "Glomerular Filtration-Assumption",
+              "SystemicProcessType": "GFR"
+            }
+          ],
+          "Protocol": {
+            "Name": "quinidine sulfate 200 mg peroral s.d.",
+            "Formulations": [
+              {
+                "Name": "Normal release quinidine sulfate (Weibull), Nguyen 2005",
+                "Key": "Formulation"
+              }
+            ]
+          }
+        }
+      ],
+      "HasResults": true,
+      "IndividualAnalyses": [
+        {
+          "Axes": [
+            {
+              "Unit": "h",
+              "Dimension": "Time",
+              "Type": "X",
+              "GridLines": false,
+              "Visible": true,
+              "DefaultColor": "#FFFFFF",
+              "DefaultLineStyle": "None",
+              "Scaling": "Linear",
+              "NumberMode": "Normal"
+            },
+            {
+              "Unit": "ng/ml",
+              "Dimension": "Concentration (molar)",
+              "Type": "Y",
+              "GridLines": false,
+              "Visible": true,
+              "DefaultColor": "#FFFFFF",
+              "DefaultLineStyle": "Solid",
+              "Scaling": "Linear",
+              "NumberMode": "Normal"
+            }
+          ],
+          "Curves": [
+            {
+              "Name": "3-Hydroxyquinidine-Peripheral Venous Blood-Plasma-Concentration",
+              "X": "Time",
+              "Y": "Damkier (1999) - quinidine sulfate, 200 mg, po, n=6 (DDI Itra)|Organism|PeripheralVenousBlood|3-Hydroxyquinidine|Plasma (Peripheral Venous Blood)",
+              "CurveOptions": {
+                "Color": "#A5A5A5",
+                "LegendIndex": 2
+              }
+            },
+            {
+              "Name": "Quinidine-Peripheral Venous Blood-Plasma-Concentration",
+              "X": "Time",
+              "Y": "Damkier (1999) - quinidine sulfate, 200 mg, po, n=6 (DDI Itra)|Organism|PeripheralVenousBlood|Quinidine|Plasma (Peripheral Venous Blood)",
+              "CurveOptions": {
+                "Color": "#000000",
+                "LegendIndex": 1
+              }
+            }
+          ],
+          "Name": "Time Profile Analysis",
+          "FontAndSize": {
+            "Fonts": {
+              "AxisSize": 10,
+              "LegendSize": 8,
+              "TitleSize": 16,
+              "DescriptionSize": 12,
+              "OriginSize": 8,
+              "FontFamilyName": "Microsoft Sans Serif",
+              "WatermarkSize": 32
+            }
+          },
+          "Settings": {
+            "SideMarginsEnabled": true,
+            "LegendPosition": "RightInside",
+            "BackColor": "#00FFFFFF",
+            "DiagramBackColor": "#FFFFFF"
+          },
+          "OriginText": "Quinidine-Victim-DDI-Model_with_Ery_final_model\nDamkier (1999) - quinidine sulfate, 200 mg, po, n=6 (DDI Itra)\n2023-05-23 14:03"
+        }
+      ]
+    },
+    {
+      "Name": "Damkier (1999) - quinidine sulfate, 200 mg, po, n=6 (DDI Itra) 120h",
+      "Model": "4Comp",
+      "Solver": {},
+      "OutputSchema": [
+        {
+          "Parameters": [
+            {
+              "Name": "Start time",
+              "Value": 0.0,
+              "Unit": "h"
+            },
+            {
+              "Name": "End time",
+              "Value": 200.0,
+              "Unit": "h",
+              "ValueOrigin": {
+                "Source": "Unknown"
+              }
+            },
+            {
+              "Name": "Resolution",
+              "Value": 20.0,
+              "Unit": "pts/h",
+              "ValueOrigin": {
+                "Source": "Unknown"
+              }
+            }
+          ]
+        }
+      ],
+      "Parameters": [
+        {
+          "Path": "Applications|Damkier (1999) - quinidine sulfate 200 mg peroral s.d. @ 120 h|Normal release quinidine sulfate (Weibull), Nguyen 2005|Application_1|ProtocolSchemaItem|Volume of water/body weight",
+          "Value": 3.5,
+          "Unit": "ml/kg"
+        },
+        {
+          "Path": "Undefined Liver|Reference concentration",
+          "Value": 1.0,
+          "Unit": "µmol/l"
+        },
+        {
+          "Path": "Undefined Liver|t1/2 (intestine)",
+          "Value": 1380.0,
+          "Unit": "min"
+        },
+        {
+          "Path": "Undefined Liver|t1/2 (liver)",
+          "Value": 2160.0,
+          "Unit": "min"
+        }
+      ],
+      "OutputSelections": [
+        "Organism|PeripheralVenousBlood|3-Hydroxyquinidine|Plasma (Peripheral Venous Blood)",
+        "Organism|PeripheralVenousBlood|Quinidine|Plasma (Peripheral Venous Blood)"
+      ],
+      "Individual": "Damkier (1999) - Erythromycin/Itraconazole/Grapefruit, n=6",
+      "Compounds": [
+        {
+          "Name": "3-Hydroxyquinidine",
+          "CalculationMethods": [
+            "Cellular partition coefficient method - Berezhkovskiy",
+            "Cellular permeability - PK-Sim Standard"
+          ],
+          "Processes": [
+            {
+              "Name": "CYP3A4-Assumed",
+              "MoleculeName": "CYP3A4"
+            },
+            {
+              "Name": "Total Hepatic Clearance-Assumption",
+              "SystemicProcessType": "Hepatic"
+            },
+            {
+              "Name": "Glomerular Filtration-Assumption",
+              "SystemicProcessType": "GFR"
+            }
+          ]
+        },
+        {
+          "Name": "Quinidine",
+          "CalculationMethods": [
+            "Cellular partition coefficient method - Berezhkovskiy",
+            "Cellular permeability - PK-Sim Standard"
+          ],
+          "Alternatives": [
+            {
+              "AlternativeName": "FIT",
+              "GroupName": "COMPOUND_INTESTINAL_PERMEABILITY"
+            }
+          ],
+          "Processes": [
+            {
+              "Name": "CYP3A4-Nielsen 1999 (3-Hydroxyquinidine), adjusted for fu,inc (70%)",
+              "MoleculeName": "CYP3A4",
+              "MetaboliteName": "3-Hydroxyquinidine"
+            },
+            {
+              "Name": "CYP3A4-Nielsen 1999 (sink), adjusted for fu,inc (70%)",
+              "MoleculeName": "CYP3A4"
+            },
+            {
+              "MoleculeName": "CYP3A4"
+            },
+            {
+              "Name": "Total Hepatic Clearance-Assumed",
+              "SystemicProcessType": "Hepatic"
+            },
+            {
+              "Name": "ABCB1-Takano 2016",
+              "MoleculeName": "ABCB1"
+            },
+            {
+              "MoleculeName": "ABCB1"
+            },
+            {
+              "Name": "Glomerular Filtration-Assumption",
+              "SystemicProcessType": "GFR"
+            }
+          ],
+          "Protocol": {
+            "Name": "Damkier (1999) - quinidine sulfate 200 mg peroral s.d. @ 120 h",
+            "Formulations": [
+              {
+                "Name": "Normal release quinidine sulfate (Weibull), Nguyen 2005",
+                "Key": "Formulation"
+              }
+            ]
+          }
+        }
+      ],
+      "HasResults": true,
+      "IndividualAnalyses": [
+        {
+          "Axes": [
+            {
+              "Unit": "h",
+              "Dimension": "Time",
+              "Type": "X",
+              "GridLines": false,
+              "Visible": true,
+              "DefaultColor": "#FFFFFF",
+              "DefaultLineStyle": "None",
+              "Scaling": "Linear",
+              "NumberMode": "Normal"
+            },
+            {
+              "Unit": "ng/ml",
+              "Dimension": "Concentration (molar)",
+              "Type": "Y",
+              "GridLines": false,
+              "Visible": true,
+              "DefaultColor": "#FFFFFF",
+              "DefaultLineStyle": "Solid",
+              "Scaling": "Linear",
+              "NumberMode": "Normal"
+            }
+          ],
+          "Curves": [
+            {
+              "Name": "3-Hydroxyquinidine-Peripheral Venous Blood-Plasma-Concentration",
+              "X": "Time",
+              "Y": "Damkier (1999) - quinidine sulfate, 200 mg, po, n=6 (DDI Itra) 120h|Organism|PeripheralVenousBlood|3-Hydroxyquinidine|Plasma (Peripheral Venous Blood)",
+              "CurveOptions": {
+                "Color": "#A5A5A5",
+                "LegendIndex": 2
+              }
+            },
+            {
+              "Name": "Quinidine-Peripheral Venous Blood-Plasma-Concentration",
+              "X": "Time",
+              "Y": "Damkier (1999) - quinidine sulfate, 200 mg, po, n=6 (DDI Itra) 120h|Organism|PeripheralVenousBlood|Quinidine|Plasma (Peripheral Venous Blood)",
+              "CurveOptions": {
+                "Color": "#000000",
+                "LegendIndex": 1
+              }
+            }
+          ],
+          "Name": "Time Profile Analysis",
+          "FontAndSize": {
+            "Fonts": {
+              "AxisSize": 10,
+              "LegendSize": 8,
+              "TitleSize": 16,
+              "DescriptionSize": 12,
+              "OriginSize": 8,
+              "FontFamilyName": "Microsoft Sans Serif",
+              "WatermarkSize": 32
+            }
+          },
+          "Settings": {
+            "SideMarginsEnabled": true,
+            "LegendPosition": "RightInside",
+            "BackColor": "#00FFFFFF",
+            "DiagramBackColor": "#FFFFFF"
+          },
+          "OriginText": "Quinidine-Victim-DDI-Model_with_Ery_final_model\nDamkier (1999) - quinidine sulfate, 200 mg, po, n=6 (DDI Itra) 120h\n2023-05-23 14:03"
+        }
+      ]
+    },
+    {
+      "Name": "Damkier (1999) - DDI - itraconazole-quinidine, 100/200 mg, po, n=6",
+      "Model": "4Comp",
+      "Solver": {},
+      "OutputSchema": [
+        {
+          "Parameters": [
+            {
+              "Name": "Start time",
+              "Value": 0.0,
+              "Unit": "h",
+              "ValueOrigin": {
+                "Source": "Unknown"
+              }
+            },
+            {
+              "Name": "End time",
+              "Value": 200.0,
+              "Unit": "h",
+              "ValueOrigin": {
+                "Source": "Unknown"
+              }
+            },
+            {
+              "Name": "Resolution",
+              "Value": 20.0,
+              "Unit": "pts/h",
+              "ValueOrigin": {
+                "Source": "Unknown"
+              }
+            }
+          ]
+        }
+      ],
+      "Parameters": [
+        {
+          "Path": "Applications|Damkier (1999) - itraconazole 100 mg q.d. 7 doses|Capsule fasted (Itraconazole)|Application_1|ProtocolSchemaItem|Volume of water/body weight",
+          "Value": 3.5,
+          "Unit": "ml/kg"
+        },
+        {
+          "Path": "Applications|Damkier (1999) - itraconazole 100 mg q.d. 7 doses|Capsule fasted (Itraconazole)|Application_2|ProtocolSchemaItem|Volume of water/body weight",
+          "Value": 3.5,
+          "Unit": "ml/kg"
+        },
+        {
+          "Path": "Applications|Damkier (1999) - itraconazole 100 mg q.d. 7 doses|Capsule fasted (Itraconazole)|Application_3|ProtocolSchemaItem|Volume of water/body weight",
+          "Value": 3.5,
+          "Unit": "ml/kg"
+        },
+        {
+          "Path": "Applications|Damkier (1999) - itraconazole 100 mg q.d. 7 doses|Capsule fasted (Itraconazole)|Application_4|ProtocolSchemaItem|Volume of water/body weight",
+          "Value": 3.5,
+          "Unit": "ml/kg"
+        },
+        {
+          "Path": "Applications|Damkier (1999) - itraconazole 100 mg q.d. 7 doses|Capsule fasted (Itraconazole)|Application_5|ProtocolSchemaItem|Volume of water/body weight",
+          "Value": 3.5,
+          "Unit": "ml/kg"
+        },
+        {
+          "Path": "Applications|Damkier (1999) - itraconazole 100 mg q.d. 7 doses|Capsule fasted (Itraconazole)|Application_6|ProtocolSchemaItem|Volume of water/body weight",
+          "Value": 3.5,
+          "Unit": "ml/kg"
+        },
+        {
+          "Path": "Applications|Damkier (1999) - itraconazole 100 mg q.d. 7 doses|Capsule fasted (Itraconazole)|Application_7|ProtocolSchemaItem|Volume of water/body weight",
+          "Value": 3.5,
+          "Unit": "ml/kg"
+        },
+        {
+          "Path": "Applications|Damkier (1999) - quinidine sulfate 200 mg peroral s.d. @ 120 h|Normal release quinidine sulfate (Weibull), Nguyen 2005|Application_1|ProtocolSchemaItem|Volume of water/body weight",
+          "Value": 3.5,
+          "Unit": "ml/kg"
+        },
+        {
+          "Path": "Undefined Liver|Reference concentration",
+          "Value": 1.0,
+          "Unit": "µmol/l"
+        },
+        {
+          "Path": "Undefined Liver|t1/2 (intestine)",
+          "Value": 1380.0,
+          "Unit": "min"
+        },
+        {
+          "Path": "Undefined Liver|t1/2 (liver)",
+          "Value": 2160.0,
+          "Unit": "min"
+        }
+      ],
+      "OutputSelections": [
+        "Organism|PeripheralVenousBlood|3-Hydroxyquinidine|Plasma (Peripheral Venous Blood)",
+        "Organism|PeripheralVenousBlood|Quinidine|Plasma (Peripheral Venous Blood)",
+        "Organism|PeripheralVenousBlood|Hydroxy-Itraconazole|Plasma (Peripheral Venous Blood)",
+        "Organism|PeripheralVenousBlood|Itraconazole|Plasma (Peripheral Venous Blood)",
+        "Organism|PeripheralVenousBlood|Keto-Itraconazole|Plasma (Peripheral Venous Blood)",
+        "Organism|PeripheralVenousBlood|N-desalkyl-Itraconazole|Plasma (Peripheral Venous Blood)",
+        "Organism|PeripheralVenousBlood|3-Hydroxyquinidine|Plasma Unbound (Peripheral Venous Blood)",
+        "Organism|PeripheralVenousBlood|Quinidine|Plasma Unbound (Peripheral Venous Blood)",
+        "Organism|PeripheralVenousBlood|Hydroxy-Itraconazole|Plasma Unbound (Peripheral Venous Blood)",
+        "Organism|PeripheralVenousBlood|Itraconazole|Plasma Unbound (Peripheral Venous Blood)",
+        "Organism|PeripheralVenousBlood|Keto-Itraconazole|Plasma Unbound (Peripheral Venous Blood)",
+        "Organism|PeripheralVenousBlood|N-desalkyl-Itraconazole|Plasma Unbound (Peripheral Venous Blood)"
+      ],
+      "Individual": "Damkier (1999) - Erythromycin/Itraconazole/Grapefruit, n=6",
+      "Compounds": [
+        {
+          "Name": "3-Hydroxyquinidine",
+          "CalculationMethods": [
+            "Cellular partition coefficient method - Berezhkovskiy",
+            "Cellular permeability - PK-Sim Standard"
+          ],
+          "Processes": [
+            {
+              "Name": "CYP3A4-Assumed",
+              "MoleculeName": "CYP3A4"
+            },
+            {
+              "Name": "Total Hepatic Clearance-Assumption",
+              "SystemicProcessType": "Hepatic"
+            },
+            {
+              "Name": "Glomerular Filtration-Assumption",
+              "SystemicProcessType": "GFR"
+            }
+          ]
+        },
+        {
+          "Name": "Quinidine",
+          "CalculationMethods": [
+            "Cellular partition coefficient method - Berezhkovskiy",
+            "Cellular permeability - PK-Sim Standard"
+          ],
+          "Alternatives": [
+            {
+              "AlternativeName": "FIT",
+              "GroupName": "COMPOUND_INTESTINAL_PERMEABILITY"
+            }
+          ],
+          "Processes": [
+            {
+              "Name": "CYP3A4-Nielsen 1999 (3-Hydroxyquinidine), adjusted for fu,inc (70%)",
+              "MoleculeName": "CYP3A4",
+              "MetaboliteName": "3-Hydroxyquinidine"
+            },
+            {
+              "Name": "CYP3A4-Nielsen 1999 (sink), adjusted for fu,inc (70%)",
+              "MoleculeName": "CYP3A4"
+            },
+            {
+              "MoleculeName": "CYP3A4"
+            },
+            {
+              "Name": "Total Hepatic Clearance-Assumed",
+              "SystemicProcessType": "Hepatic"
+            },
+            {
+              "Name": "ABCB1-Takano 2016",
+              "MoleculeName": "ABCB1"
+            },
+            {
+              "MoleculeName": "ABCB1"
+            },
+            {
+              "Name": "Glomerular Filtration-Assumption",
+              "SystemicProcessType": "GFR"
+            }
+          ],
+          "Protocol": {
+            "Name": "Damkier (1999) - quinidine sulfate 200 mg peroral s.d. @ 120 h",
+            "Formulations": [
+              {
+                "Name": "Normal release quinidine sulfate (Weibull), Nguyen 2005",
+                "Key": "Formulation"
+              }
+            ]
+          }
+        },
+        {
+          "Name": "Hydroxy-Itraconazole",
+          "CalculationMethods": [
+            "Cellular partition coefficient method - Rodgers and Rowland",
+            "Cellular permeability - PK-Sim Standard"
+          ],
+          "Processes": [
+            {
+              "Name": "CYP3A4-Isoherranen 2004",
+              "MoleculeName": "CYP3A4",
+              "MetaboliteName": "Keto-Itraconazole"
+            },
+            {
+              "Name": "Glomerular Filtration-GFR",
+              "SystemicProcessType": "GFR"
+            }
+          ]
+        },
+        {
+          "Name": "Itraconazole",
+          "CalculationMethods": [
+            "Cellular partition coefficient method - Rodgers and Rowland",
+            "Cellular permeability - PK-Sim Standard"
+          ],
+          "Alternatives": [
+            {
+              "AlternativeName": "Solution fasted (Taupitz et al. 2013)",
+              "GroupName": "COMPOUND_SOLUBILITY"
+            },
+            {
+              "AlternativeName": "Calculated",
+              "GroupName": "COMPOUND_PERMEABILITY"
+            },
+            {
+              "AlternativeName": "Fit",
+              "GroupName": "COMPOUND_INTESTINAL_PERMEABILITY"
+            }
+          ],
+          "Processes": [
+            {
+              "Name": "CYP3A4-Isoherranen 2004",
+              "MoleculeName": "CYP3A4",
+              "MetaboliteName": "Hydroxy-Itraconazole"
+            },
+            {
+              "Name": "Glomerular Filtration-GFR",
+              "SystemicProcessType": "GFR"
+            }
+          ],
+          "Protocol": {
+            "Name": "Damkier (1999) - itraconazole 100 mg q.d. 7 doses",
+            "Formulations": [
+              {
+                "Name": "Capsule fasted (Itraconazole)",
+                "Key": "Formulation"
+              }
+            ]
+          }
+        },
+        {
+          "Name": "Keto-Itraconazole",
+          "CalculationMethods": [
+            "Cellular partition coefficient method - Rodgers and Rowland",
+            "Cellular permeability - PK-Sim Standard"
+          ],
+          "Processes": [
+            {
+              "Name": "CYP3A4-Isoherranen 2004",
+              "MoleculeName": "CYP3A4",
+              "MetaboliteName": "N-desalkyl-Itraconazole"
+            },
+            {
+              "Name": "Glomerular Filtration-GFR",
+              "SystemicProcessType": "GFR"
+            }
+          ]
+        },
+        {
+          "Name": "N-desalkyl-Itraconazole",
+          "CalculationMethods": [
+            "Cellular partition coefficient method - Rodgers and Rowland",
+            "Cellular permeability - PK-Sim Standard"
+          ],
+          "Processes": [
+            {
+              "Name": "CYP3A4-Isoherranen 2004",
+              "MoleculeName": "CYP3A4"
+            },
+            {
+              "Name": "Glomerular Filtration-GFR",
+              "SystemicProcessType": "GFR"
+            }
+          ]
+        }
+      ],
+      "HasResults": true,
+      "IndividualAnalyses": [
+        {
+          "Axes": [
+            {
+              "Unit": "h",
+              "Dimension": "Time",
+              "Type": "X",
+              "GridLines": false,
+              "Visible": true,
+              "DefaultColor": "#FFFFFF",
+              "DefaultLineStyle": "None",
+              "Scaling": "Linear",
+              "NumberMode": "Normal"
+            },
+            {
+              "Unit": "µmol/l",
+              "Dimension": "Concentration (molar)",
+              "Type": "Y",
+              "GridLines": false,
+              "Visible": true,
+              "DefaultColor": "#FFFFFF",
+              "DefaultLineStyle": "Solid",
+              "Scaling": "Linear",
+              "NumberMode": "Normal"
+            }
+          ],
+          "Curves": [
+            {
+              "Name": "Itraconazole-Peripheral Venous Blood-Plasma Unbound-Concentration",
+              "X": "Time",
+              "Y": "Damkier (1999) - DDI - itraconazole-quinidine, 100/200 mg, po, n=6|Organism|PeripheralVenousBlood|Itraconazole|Plasma Unbound (Peripheral Venous Blood)",
+              "CurveOptions": {
+                "Color": "#FF0000",
+                "LegendIndex": 9
+              }
+            }
+          ],
+          "Name": "Time Profile Analysis",
+          "FontAndSize": {
+            "Fonts": {
+              "AxisSize": 10,
+              "LegendSize": 8,
+              "TitleSize": 16,
+              "DescriptionSize": 12,
+              "OriginSize": 8,
+              "FontFamilyName": "Microsoft Sans Serif",
+              "WatermarkSize": 32
+            }
+          },
+          "Settings": {
+            "SideMarginsEnabled": true,
+            "LegendPosition": "RightInside",
+            "BackColor": "#00FFFFFF",
+            "DiagramBackColor": "#FFFFFF"
+          },
+          "OriginText": "Quinidine-Victim-DDI-Model_with_Ery_final_model\nDamkier (1999) - DDI - itraconazole-quinidine, 100/200 mg, po, n=6\n2023-05-23 15:01"
+        }
+      ],
+      "Interactions": [
+        {
+          "Name": "ABCB1-Lumen 2010",
+          "MoleculeName": "ABCB1",
+          "CompoundName": "Quinidine"
+        },
+        {
+          "Name": "CYP3A4-Isoherranen, 2004",
+          "MoleculeName": "CYP3A4",
+          "CompoundName": "Hydroxy-Itraconazole"
+        },
+        {
+          "Name": "CYP3A4-Isoherranen, 2004",
+          "MoleculeName": "CYP3A4",
+          "CompoundName": "Itraconazole"
+        },
+        {
+          "Name": "ABCB1-Shityakov 2014",
+          "MoleculeName": "ABCB1",
+          "CompoundName": "Itraconazole"
+        },
+        {
+          "Name": "CYP3A4-Isoherranen, 2004",
+          "MoleculeName": "CYP3A4",
+          "CompoundName": "Keto-Itraconazole"
+        },
+        {
+          "Name": "CYP3A4-Isoherranen, 2004",
+          "MoleculeName": "CYP3A4",
+          "CompoundName": "N-desalkyl-Itraconazole"
+        }
+      ]
+    }
+  ],
+  "ObservedData": [
+    {
+      "Name": "Kaukonen (1997) - DDI - itraconazole-quinidine, 200_100 mg, po, n=9, itraconazole",
+      "ExtendedProperties": [
+        {
+          "Name": "Molecule",
+          "Value": "Itraconazole"
+        },
+        {
+          "Name": "Species",
+          "Value": "Human"
+        },
+        {
+          "Name": "Organ",
+          "Value": "Peripheral Venous Blood"
+        },
+        {
+          "Name": "Compartment",
+          "Value": "Plasma"
+        }
+      ],
+      "Columns": [
+        {
+          "Name": "Measurement",
+          "RelatedColumns": [
+            {
+              "Name": "Error",
+              "QuantityInfo": {
+                "Path": "Kaukonen (1997) - DDI - itraconazole-quinidine, 200_100 mg, po, n=9, itraconazole|ObservedData|Peripheral Venous Blood|Plasma|Itraconazole|Error"
+              },
+              "DataInfo": {
+                "Origin": "ObservationAuxiliary",
+                "AuxiliaryType": "ArithmeticStdDev",
+                "MolWeight": 705.633
+              },
+              "Values": [
+                0.09860495,
+                0.1590639,
+                0.185333312,
+                0.190012991,
+                0.146107689,
+                0.2367974,
+                0.1263169
+              ],
+              "Dimension": "Concentration (mass)",
+              "Unit": "mg/l"
+            }
+          ],
+          "QuantityInfo": {
+            "Path": "Kaukonen (1997) - DDI - itraconazole-quinidine, 200_100 mg, po, n=9, itraconazole|ObservedData|Peripheral Venous Blood|Plasma|Itraconazole|Measurement"
+          },
+          "DataInfo": {
+            "Origin": "Observation",
+            "AuxiliaryType": "Undefined",
+            "MolWeight": 705.633
+          },
+          "Values": [
+            0.170160308,
+            0.2727844,
+            0.3685705,
+            0.3874045,
+            0.270625681,
+            0.311950922,
+            0.188156
+          ],
+          "Dimension": "Concentration (mass)",
+          "Unit": "mg/l"
+        }
+      ],
+      "BaseGrid": {
+        "Name": "Time",
+        "QuantityInfo": {
+          "Path": "Kaukonen (1997) - DDI - itraconazole-quinidine, 200_100 mg, po, n=9, itraconazole|Time",
+          "Type": "Time"
+        },
+        "DataInfo": {
+          "Origin": "BaseGrid",
+          "AuxiliaryType": "Undefined"
+        },
+        "Values": [
+          73.00234,
+          74.001236,
+          74.9957047,
+          77.0059738,
+          80.0107956,
+          85.00594,
+          97.0347061
+        ],
+        "Dimension": "Time",
+        "Unit": "h"
+      }
+    },
+    {
+      "Name": "Kaukonen (1997) - DDI - itraconazole-quinidine, 200_100 mg, po, n=9, hydroxyitraconazole",
+      "ExtendedProperties": [
+        {
+          "Name": "Molecule",
+          "Value": "Hydroxy-Itraconazole"
+        },
+        {
+          "Name": "Species",
+          "Value": "Human"
+        },
+        {
+          "Name": "Organ",
+          "Value": "Peripheral Venous Blood"
+        },
+        {
+          "Name": "Compartment",
+          "Value": "Plasma"
+        }
+      ],
+      "Columns": [
+        {
+          "Name": "Measurement",
+          "RelatedColumns": [
+            {
+              "Name": "Error",
+              "QuantityInfo": {
+                "Path": "Kaukonen (1997) - DDI - itraconazole-quinidine, 200_100 mg, po, n=9, hydroxyitraconazole|ObservedData|Peripheral Venous Blood|Plasma|Hydroxy-Itraconazole|Error"
+              },
+              "DataInfo": {
+                "Origin": "ObservationAuxiliary",
+                "AuxiliaryType": "ArithmeticStdDev",
+                "MolWeight": 721.633
+              },
+              "Values": [
+                0.280342579,
+                0.25839,
+                0.2735047,
+                0.2544312,
+                0.254432,
+                0.3364828,
+                0.34008038
+              ],
+              "Dimension": "Concentration (mass)",
+              "Unit": "mg/l"
+            }
+          ],
+          "QuantityInfo": {
+            "Path": "Kaukonen (1997) - DDI - itraconazole-quinidine, 200_100 mg, po, n=9, hydroxyitraconazole|ObservedData|Peripheral Venous Blood|Plasma|Hydroxy-Itraconazole|Measurement"
+          },
+          "DataInfo": {
+            "Origin": "Observation",
+            "AuxiliaryType": "Undefined",
+            "MolWeight": 721.633
+          },
+          "Values": [
+            0.5429889,
+            0.547728,
+            0.6377576,
+            0.6886195,
+            0.6610883,
+            0.7369622,
+            0.574299932
+          ],
+          "Dimension": "Concentration (mass)",
+          "Unit": "mg/l"
+        }
+      ],
+      "BaseGrid": {
+        "Name": "Time",
+        "QuantityInfo": {
+          "Path": "Kaukonen (1997) - DDI - itraconazole-quinidine, 200_100 mg, po, n=9, hydroxyitraconazole|Time",
+          "Type": "Time"
+        },
+        "DataInfo": {
+          "Origin": "BaseGrid",
+          "AuxiliaryType": "Undefined"
+        },
+        "Values": [
+          73.0,
+          73.9993057,
+          75.0176849,
+          77.01242,
+          79.9993744,
+          85.00727,
+          97.01873
+        ],
+        "Dimension": "Time",
+        "Unit": "h"
+      }
+    },
+    {
+      "Name": "Kaukonen (1997) - DDI - itraconazole-quinidine, 200_100 mg, po, n=9, quinidine",
+      "ExtendedProperties": [
+        {
+          "Name": "Molecule",
+          "Value": "Quinidine"
+        },
+        {
+          "Name": "Species",
+          "Value": "Human"
+        },
+        {
+          "Name": "Organ",
+          "Value": "Peripheral Venous Blood"
+        },
+        {
+          "Name": "Compartment",
+          "Value": "Plasma"
+        }
+      ],
+      "Columns": [
+        {
+          "Name": "Measurement",
+          "RelatedColumns": [
+            {
+              "Name": "Error",
+              "QuantityInfo": {
+                "Path": "Kaukonen (1997) - DDI - itraconazole-quinidine, 200_100 mg, po, n=9, quinidine|ObservedData|Peripheral Venous Blood|Plasma|Quinidine|Error"
+              },
+              "DataInfo": {
+                "Origin": "ObservationAuxiliary",
+                "AuxiliaryType": "ArithmeticStdDev",
+                "MolWeight": 324.42
+              },
+              "Values": [
+                0.0,
+                0.08291981,
+                0.08198447,
+                0.05884825,
+                0.06475163,
+                0.1186369,
+                0.099068895,
+                0.08851216,
+                0.07360257,
+                0.0451873
+              ],
+              "Dimension": "Concentration (mass)",
+              "Unit": "mg/l"
+            }
+          ],
+          "QuantityInfo": {
+            "Path": "Kaukonen (1997) - DDI - itraconazole-quinidine, 200_100 mg, po, n=9, quinidine|ObservedData|Peripheral Venous Blood|Plasma|Quinidine|Measurement"
+          },
+          "DataInfo": {
+            "Origin": "Observation",
+            "AuxiliaryType": "Undefined",
+            "MolWeight": 324.42
+          },
+          "Values": [
+            0.005988684,
+            0.03872114,
+            0.0821679,
+            0.125922889,
+            0.19138141,
+            0.2608786,
+            0.2575523,
+            0.2366109,
+            0.18131119,
+            0.0874993354
+          ],
+          "Dimension": "Concentration (mass)",
+          "Unit": "mg/l"
+        }
+      ],
+      "BaseGrid": {
+        "Name": "Time",
+        "QuantityInfo": {
+          "Path": "Kaukonen (1997) - DDI - itraconazole-quinidine, 200_100 mg, po, n=9, quinidine|Time",
+          "Type": "Time"
+        },
+        "DataInfo": {
+          "Origin": "BaseGrid",
+          "AuxiliaryType": "Undefined"
+        },
+        "Values": [
+          73.51234,
+          73.98592,
+          74.45933,
+          74.96708,
+          76.01046,
+          77.033165,
+          78.01587,
+          80.02965,
+          84.99886,
+          97.0122452
+        ],
+        "Dimension": "Time",
+        "Unit": "h"
+      }
+    },
+    {
+      "Name": "Kaukonen (1997) - quinidine sulfate, 100 mg, po, n=9, quinidine",
+      "ExtendedProperties": [
+        {
+          "Name": "Molecule",
+          "Value": "Quinidine"
+        },
+        {
+          "Name": "Species",
+          "Value": "Human"
+        },
+        {
+          "Name": "Organ",
+          "Value": "Peripheral Venous Blood"
+        },
+        {
+          "Name": "Compartment",
+          "Value": "Plasma"
+        }
+      ],
+      "Columns": [
+        {
+          "Name": "Measurement",
+          "RelatedColumns": [
+            {
+              "Name": "Error",
+              "QuantityInfo": {
+                "Path": "Kaukonen (1997) - quinidine sulfate, 100 mg, po, n=9, quinidine|ObservedData|Peripheral Venous Blood|Plasma|Quinidine|Error"
+              },
+              "DataInfo": {
+                "Origin": "ObservationAuxiliary",
+                "AuxiliaryType": "ArithmeticStdDev",
+                "MolWeight": 324.42
+              },
+              "Values": [
+                0.0,
+                0.0,
+                0.01384255,
+                0.05014416,
+                0.09604109,
+                0.1007898,
+                0.08643458,
+                0.0707735345,
+                0.0476158932,
+                0.0
+              ],
+              "Dimension": "Concentration (mass)",
+              "Unit": "mg/l"
+            }
+          ],
+          "QuantityInfo": {
+            "Path": "Kaukonen (1997) - quinidine sulfate, 100 mg, po, n=9, quinidine|ObservedData|Peripheral Venous Blood|Plasma|Quinidine|Measurement"
+          },
+          "DataInfo": {
+            "Origin": "Observation",
+            "AuxiliaryType": "Undefined",
+            "MolWeight": 324.42
+          },
+          "Values": [
+            14.06231,
+            66.51529,
+            104.5291,
+            134.1546,
+            157.5323,
+            161.6558,
+            149.3233,
+            122.637,
+            80.0697861,
+            25.233099
+          ],
+          "Dimension": "Concentration (mass)",
+          "Unit": "ng/ml"
+        }
+      ],
+      "BaseGrid": {
+        "Name": "Time",
+        "QuantityInfo": {
+          "Path": "Kaukonen (1997) - quinidine sulfate, 100 mg, po, n=9, quinidine|Time",
+          "Type": "Time"
+        },
+        "DataInfo": {
+          "Origin": "BaseGrid",
+          "AuxiliaryType": "Undefined"
+        },
+        "Values": [
+          0.52594,
+          0.999189,
+          1.445198,
+          1.939453,
+          2.98355412,
+          4.021114,
+          5.003983,
+          7.010985,
+          11.98685,
+          23.99957
+        ],
+        "Dimension": "Time",
+        "Unit": "h"
+      }
+    },
+    {
+      "Name": "Kaukonen (1997) - DDI - itraconazole-quinidine, 200_100 mg, po, n=9, quinidine urine",
+      "ExtendedProperties": [
+        {
+          "Name": "Molecule",
+          "Value": "Quinidine"
+        },
+        {
+          "Name": "Species",
+          "Value": "Human"
+        },
+        {
+          "Name": "Organ",
+          "Value": "Kidney"
+        },
+        {
+          "Name": "Compartment",
+          "Value": "Urine"
+        }
+      ],
+      "Columns": [
+        {
+          "Name": "Measurement",
+          "QuantityInfo": {
+            "Path": "Kaukonen (1997) - DDI - itraconazole-quinidine, 200_100 mg, po, n=9, quinidine urine|ObservedData|Kidney|Urine|Quinidine|Measurement"
+          },
+          "DataInfo": {
+            "Origin": "Observation",
+            "AuxiliaryType": "Undefined",
+            "MolWeight": 324.42
+          },
+          "Values": [
+            35.13963
+          ],
+          "Dimension": "Amount",
+          "Unit": "µmol"
+        }
+      ],
+      "BaseGrid": {
+        "Name": "Time",
+        "QuantityInfo": {
+          "Path": "Kaukonen (1997) - DDI - itraconazole-quinidine, 200_100 mg, po, n=9, quinidine urine|Time",
+          "Type": "Time"
+        },
+        "DataInfo": {
+          "Origin": "BaseGrid",
+          "AuxiliaryType": "Undefined"
+        },
+        "Values": [
+          97.0
+        ],
+        "Dimension": "Time",
+        "Unit": "h"
+      }
+    },
+    {
+      "Name": "Kaukonen (1997) - quinidine sulfate, 100 mg, po, n=9, quinidine urine",
+      "ExtendedProperties": [
+        {
+          "Name": "Molecule",
+          "Value": "Quinidine"
+        },
+        {
+          "Name": "Species",
+          "Value": "Human"
+        },
+        {
+          "Name": "Organ",
+          "Value": "Kidney"
+        },
+        {
+          "Name": "Compartment",
+          "Value": "Urine"
+        }
+      ],
+      "Columns": [
+        {
+          "Name": "Measurement",
+          "QuantityInfo": {
+            "Path": "Kaukonen (1997) - quinidine sulfate, 100 mg, po, n=9, quinidine urine|ObservedData|Kidney|Urine|Quinidine|Measurement"
+          },
+          "DataInfo": {
+            "Origin": "Observation",
+            "AuxiliaryType": "Undefined",
+            "MolWeight": 324.42
+          },
+          "Values": [
+            37.29733
+          ],
+          "Dimension": "Amount",
+          "Unit": "µmol"
+        }
+      ],
+      "BaseGrid": {
+        "Name": "Time",
+        "QuantityInfo": {
+          "Path": "Kaukonen (1997) - quinidine sulfate, 100 mg, po, n=9, quinidine urine|Time",
+          "Type": "Time"
+        },
+        "DataInfo": {
+          "Origin": "BaseGrid",
+          "AuxiliaryType": "Undefined"
+        },
+        "Values": [
+          24.0
+        ],
+        "Dimension": "Time",
+        "Unit": "h"
+      }
+    }
+  ],
+  "ObservedDataClassifications": [
+    {
+      "Name": "Quinidine",
+      "Classifiables": [
+        "Kaukonen (1997) - DDI - itraconazole-quinidine, 200_100 mg, po, n=9, quinidine urine",
+        "Kaukonen (1997) - quinidine sulfate, 100 mg, po, n=9, quinidine urine",
+        "Kaukonen (1997) - DDI - itraconazole-quinidine, 200_100 mg, po, n=9, quinidine",
+        "Kaukonen (1997) - quinidine sulfate, 100 mg, po, n=9, quinidine"
+      ]
+    },
+    {
+      "Name": "Itraconazole",
+      "Classifiables": [
+        "Kaukonen (1997) - DDI - itraconazole-quinidine, 200_100 mg, po, n=9, itraconazole"
+      ]
+    },
+    {
+      "Name": "Hydroxy-Itraconazole",
+      "Classifiables": [
+        "Kaukonen (1997) - DDI - itraconazole-quinidine, 200_100 mg, po, n=9, hydroxyitraconazole"
+      ]
+    }
+  ],
+  "SimulationClassifications": [
+    {
+      "Name": "Itraconazole",
+      "Classifiables": [
+        "Damkier (1999) - DDI - itraconazole-quinidine, 100/200 mg, po, n=6",
+        "Damkier (1999) - quinidine sulfate, 200 mg, po, n=6 (DDI Itra)",
+        "Damkier (1999) - quinidine sulfate, 200 mg, po, n=6 (DDI Itra) 120h",
+        "Kaukonen (1997) - DDI - itraconazole-quinidine, 200/100 mg, po, n=9",
+        "Kaukonen (1997) - quinidine sulfate, 100 mg, po, n=9"
+      ]
+    }
+  ]
+}
